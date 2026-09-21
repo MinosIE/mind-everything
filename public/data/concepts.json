@@ -168,5 +168,39 @@
     "related": ["personality", "self"],
     "tags": ["人格"],
     "sources": [{ "label": "McCrae & Costa (1992)", "year": 1992 }]
+  },
+  {
+    "id": "mental-model",
+    "term": "心理模型",
+    "termEn": "Mental Model",
+    "category": "认知",
+    "categoryEn": "Cognition",
+    "level": 2,
+    "oneLiner": "我们头脑里对事物如何运作的「内在模拟」——用来理解、预测和决策。",
+    "oneLinerEn": "The internal 'simulation' in our head of how things work — used to understand, predict and decide.",
+    "detail": "心理模型（mental model）由 Craik (1943) 提出、Johnson-Laird (1983) 系统化：人会在脑中构建关于世界如何运行的小模型，并据此预测结果。它不一定是事实的精确拷贝，而是够用就好——比如你「以为」电梯按钮按了就会更快来，其实并不会。卡尼曼的系统1/系统2、锚定效应，本质上都依赖这类简化模型。",
+    "detailEn": "Mental models, proposed by Craik (1943) and formalized by Johnson-Laird (1983), are small in-head models of how the world works, used to predict outcomes. They need not be accurate copies—just good enough (e.g., you 'feel' the elevator comes faster if you press again; it doesn't). Kahneman's System 1/2 and anchoring both rest on such simplified models.",
+    "example": "你以为「贵=好」，于是看到高价商品就默认质量更高——这是价格锚定的心理模型在替你做快速判断。",
+    "exampleEn": "You assume 'pricey = good', so a high price makes you default to 'higher quality'—a mental model of price anchoring doing the fast judgment for you.",
+    "related": ["kahneman", "anchoring", "schema"],
+    "tags": ["认知", "决策"],
+    "sources": [{ "label": "Johnson-Laird (1983)", "year": 1983 }]
+  },
+  {
+    "id": "mbti",
+    "term": "MBTI（16型人格）",
+    "termEn": "MBTI (16 Personality Types)",
+    "category": "人格",
+    "categoryEn": "Personality",
+    "level": 2,
+    "oneLiner": "用 4 个维度把人分成 16 种类型的流行测评，但科学上备受争议。",
+    "oneLinerEn": "A popular 4-axis test sorting people into 16 types—yet scientifically contested.",
+    "detail": "MBTI 源自荣格的心理类型说、由迈尔斯母女发展；4 个维度（外向E/内向I、感觉S/直觉N、思考T/情感F、判断J/感知P）组合成 16 型（如 INTJ）。它因易懂、非贬义而在职场与社交中极流行。但主流心理学对其有保留：重测信度不高（隔段时间可能变型）、把连续特质切成非此即彼、且对行为/职业的预测力弱于大五人格。它适合做「破冰与自我觉察的谈资」，不宜当作能力或岗位的科学依据。",
+    "detailEn": "MBTI derives from Jung's psychological types, developed by Myers & Briggs; four dichotomies (E/I, S/N, T/F, J/P) yield 16 types (e.g., INTJ). It is hugely popular for being simple and non-judgmental. Yet mainstream psychology is cautious: retest reliability is modest (you may get a different type later), it splits continuous traits into either/or, and it predicts behavior/jobs worse than the Big Five. Use it as an icebreaker for self-reflection, not a scientific basis for ability or hiring.",
+    "example": "有人自称「INTJ 逻辑怪」来解释自己爱独处、重计划——这能帮人表达偏好，但别据此给人贴死标签或筛工作。",
+    "exampleEn": "Someone calls themselves 'INTJ logician' to explain loving solitude and plans—useful for voicing preferences, but don't label people or filter jobs by it.",
+    "related": ["personality", "big-five"],
+    "tags": ["人格"],
+    "sources": [{ "label": "Pittenger (1993) MBTI 信效度批评", "year": 1993 }]
   }
 ]

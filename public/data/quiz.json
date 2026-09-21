@@ -94,5 +94,101 @@
     ],
     "related": ["self-construal", "individualism-collectivism"],
     "sources": [{ "label": "Markus & Kitayama (1991)", "year": 1991 }]
+  },
+  {
+    "id": "q-personality-1",
+    "term": "缩写「OCEAN」指的是哪个人格框架？",
+    "termEn": "The acronym 'OCEAN' refers to which personality framework?",
+    "oneLiner": "用五个字母概括人格的主流模型。",
+    "oneLinerEn": "The mainstream model that sums up personality in five letters.",
+    "detail": "大五人格（Big Five）：开放性 Openness、尽责性 Conscientiousness、外向性 Extraversion、宜人性 Agreeableness、神经质 Neuroticism。它是当前最被验证的特质框架，描述差异而非好坏。",
+    "detailEn": "The Big Five: Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism—the best-validated trait framework, describing differences not good/bad.",
+    "options": [
+      { "text": "大五人格", "textEn": "Big Five", "correct": true },
+      { "text": "弗洛伊德心理结构（本我/自我/超我）", "textEn": "Freud's structure (id/ego/superego)", "correct": false },
+      { "text": "马斯洛需求层次", "textEn": "Maslow's hierarchy", "correct": false }
+    ],
+    "related": ["big-five", "freud"],
+    "sources": [{ "label": "McCrae & Costa (1992)", "year": 1992 }]
+  },
+  {
+    "id": "q-personality-2",
+    "term": "行为遗传学研究认为，人格差异中可归因于遗传的比例约为？",
+    "termEn": "Behavior genetics suggests about what share of personality variance is heritable?",
+    "oneLiner": "先天与后天的粗略比例。",
+    "oneLinerEn": "A rough nature-vs-nurture share.",
+    "detail": "约 40%–50%。其余来自环境、经历与随机因素；人格是「相对」稳定而非「完全」由基因决定，成年后仍可微调。",
+    "detailEn": "Roughly 40%–50%. The rest comes from environment, experience and chance; personality is relatively, not absolutely, stable and can shift somewhat in adulthood.",
+    "options": [
+      { "text": "几乎 0%（全靠环境）", "textEn": "Nearly 0% (all environment)", "correct": false },
+      { "text": "约 40%–50%", "textEn": "About 40%–50%", "correct": true },
+      { "text": "约 90%（几乎全基因）", "textEn": "About 90% (almost all genes)", "correct": false }
+    ],
+    "related": ["personality", "big-five"],
+    "sources": [{ "label": "Plomin et al. (2016)", "year": 2016 }]
+  },
+  {
+    "id": "q-personality-3",
+    "term": "一场热闹聚会后，你感到精力被「耗尽」、更想独处静静——这更可能说明？",
+    "termEn": "After a lively party you feel drained and want to be alone — this more likely means?",
+    "oneLiner": "一种常见的能量来源差异。",
+    "oneLinerEn": "A common difference in where energy comes from.",
+    "detail": "你可能偏向内向（introversion）：内向者的能量在独处中恢复，外向者在大社交中获得能量。这是倾向差异，不是社交能力问题，也不是疾病。大五描述的是平均倾向，不给人贴标签。",
+    "detailEn": "You may lean introverted: introverts recharge in solitude, extraverts in social buzz. It is a tendency, not a skill gap or disorder. The Big Five describes tendencies, not labels.",
+    "options": [
+      { "text": "你社交能力有问题", "textEn": "You have poor social skills", "correct": false },
+      { "text": "你偏向内向，能量来自独处", "textEn": "You lean introverted; solitude recharges you", "correct": true },
+      { "text": "你一定患有社交焦虑障碍", "textEn": "You must have social anxiety disorder", "correct": false }
+    ],
+    "related": ["big-five", "personality"],
+    "sources": [{ "label": "McCrae & Costa (1992)", "year": 1992 }]
+  },
+  {
+    "id": "q-personality-4",
+    "term": "你更享受「提前列好计划再出发」，还是「走到哪算哪」？这主要反映哪类差异？",
+    "termEn": "You prefer 'plan ahead' vs 'go with the flow' — this mainly reflects which difference?",
+    "oneLiner": "计划性属于哪个维度。",
+    "oneLinerEn": "Which dimension planning belongs to.",
+    "detail": "大五中的尽责性（Conscientiousness）：计划、条理、可靠程度。它与血型、左右脑分工无关（皆为流行误区）。高尽责更可能按时交付、少出纰漏，但只是概率倾向。",
+    "detailEn": "Conscientiousness in the Big Five: planning, order, reliability. It has nothing to do with blood type or left/right brain (both are myths). High conscientiousness predicts on-time, fewer slips—but only probabilistically.",
+    "options": [
+      { "text": "尽责性高低", "textEn": "Level of Conscientiousness", "correct": true },
+      { "text": "血型差异（A/B/O/AB）", "textEn": "Blood type (A/B/O/AB)", "correct": false },
+      { "text": "左右脑分工", "textEn": "Left/right brain split", "correct": false }
+    ],
+    "related": ["big-five", "personality", "left-right-brain"],
+    "sources": [{ "label": "McCrae & Costa (1992)", "year": 1992 }]
+  },
+  {
+    "id": "q-personality-5",
+    "term": "关于「性格测试、星座、血型」，心理学更支持的立场是？",
+    "termEn": "On 'personality tests, astrology, blood type', psychology leans toward which view?",
+    "oneLiner": "科学测量与伪科学的界线。",
+    "oneLinerEn": "The line between science and pseudoscience.",
+    "detail": "大五等特质量表可描述稳定的平均倾向、能跨文化验证，但不定义一个人、也不构成诊断；星座与血型—性格说法缺乏实证支持，属流行文化而非科学。人格相对但非绝对稳定，成年后仍可微调。",
+    "detailEn": "Trait scales like the Big Five describe stable average tendencies and are cross-culturally validated, but they don't define a person or constitute diagnosis. Astrology and blood-type-personality lack empirical support—pop culture, not science. Personality is relatively, not absolutely, fixed.",
+    "options": [
+      { "text": "星座能准确预测一个人的人格", "textEn": "Astrology accurately predicts personality", "correct": false },
+      { "text": "大五等量表描述倾向、非诊断，且可验证", "textEn": "Scales like Big Five describe tendencies, not diagnosis, and are testable", "correct": true },
+      { "text": "人格完全由童年决定、成年后无法改变", "textEn": "Personality is set in childhood, immutable in adulthood", "correct": false }
+    ],
+    "related": ["big-five", "personality", "left-right-brain"],
+    "sources": [{ "label": "McCrae & Costa (1992)", "year": 1992 }]
+  },
+  {
+    "id": "q-personality-6",
+    "term": "关于 MBTI（16型）与大五人格，主流心理学更支持的立场是？",
+    "termEn": "On MBTI (16 types) vs the Big Five, what does mainstream psychology lean toward?",
+    "oneLiner": "流行工具与科学框架的差别。",
+    "oneLinerEn": "The gap between a popular tool and a scientific framework.",
+    "detail": "大五（OCEAN）因重测稳定、可跨文化验证、对行为预测更强，被主流更倚重；MBTI 易懂、非贬义、适合破冰，但信度较低、把连续特质切成非此即彼。两者都可辅助自我觉察，但 MBTI 不宜作为能力或招聘的科学依据。",
+    "detailEn": "The Big Five is favored for stability, cross-cultural validity and predictive power; MBTI is easy, non-judgmental and good for icebreaking, but less reliable and splits continuous traits into either/or. Both aid self-reflection, yet MBTI shouldn't be a scientific basis for ability or hiring.",
+    "options": [
+      { "text": "MBTI 比大五更科学、可直接用于招聘", "textEn": "MBTI is more scientific and fit for hiring", "correct": false },
+      { "text": "大五更受主流倚重；MBTI 适合作谈资而非定论", "textEn": "Big Five is favored; MBTI is talk, not verdict", "correct": true },
+      { "text": "两者都被证明无效", "textEn": "Both are proven invalid", "correct": false }
+    ],
+    "related": ["big-five", "personality", "mbti"],
+    "sources": [{ "label": "McCrae & Costa (1992)", "year": 1992 }]
   }
 ]

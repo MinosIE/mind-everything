@@ -115,6 +115,29 @@
     ]
   },
   {
+    "id": "mental-model",
+    "module": "concepts",
+    "title": "心理模型",
+    "titleEn": "Mental Model",
+    "sub": "我们头脑里对事物如何运作的「内在模拟」——用来理解、预测和决策。",
+    "subEn": "The internal 'simulation' in our head of how things work — used to understand, predict and decide.",
+    "tags": [
+      "认知",
+      "决策"
+    ]
+  },
+  {
+    "id": "mbti",
+    "module": "concepts",
+    "title": "MBTI（16型人格）",
+    "titleEn": "MBTI (16 Personality Types)",
+    "sub": "用 4 个维度把人分成 16 种类型的流行测评，但科学上备受争议。",
+    "subEn": "A popular 4-axis test sorting people into 16 types—yet scientifically contested.",
+    "tags": [
+      "人格"
+    ]
+  },
+  {
     "id": "conditioning",
     "module": "glossary",
     "title": "条件反射",
@@ -809,6 +832,60 @@
     "titleEn": "East Asian cultures lean toward which 'self'?",
     "sub": "跨文化心理学的一个经典区分。",
     "subEn": "A classic cross-cultural distinction.",
+    "tags": []
+  },
+  {
+    "id": "q-personality-1",
+    "module": "quiz",
+    "title": "缩写「OCEAN」指的是哪个人格框架？",
+    "titleEn": "The acronym 'OCEAN' refers to which personality framework?",
+    "sub": "用五个字母概括人格的主流模型。",
+    "subEn": "The mainstream model that sums up personality in five letters.",
+    "tags": []
+  },
+  {
+    "id": "q-personality-2",
+    "module": "quiz",
+    "title": "行为遗传学研究认为，人格差异中可归因于遗传的比例约为？",
+    "titleEn": "Behavior genetics suggests about what share of personality variance is heritable?",
+    "sub": "先天与后天的粗略比例。",
+    "subEn": "A rough nature-vs-nurture share.",
+    "tags": []
+  },
+  {
+    "id": "q-personality-3",
+    "module": "quiz",
+    "title": "一场热闹聚会后，你感到精力被「耗尽」、更想独处静静——这更可能说明？",
+    "titleEn": "After a lively party you feel drained and want to be alone — this more likely means?",
+    "sub": "一种常见的能量来源差异。",
+    "subEn": "A common difference in where energy comes from.",
+    "tags": []
+  },
+  {
+    "id": "q-personality-4",
+    "module": "quiz",
+    "title": "你更享受「提前列好计划再出发」，还是「走到哪算哪」？这主要反映哪类差异？",
+    "titleEn": "You prefer 'plan ahead' vs 'go with the flow' — this mainly reflects which difference?",
+    "sub": "计划性属于哪个维度。",
+    "subEn": "Which dimension planning belongs to.",
+    "tags": []
+  },
+  {
+    "id": "q-personality-5",
+    "module": "quiz",
+    "title": "关于「性格测试、星座、血型」，心理学更支持的立场是？",
+    "titleEn": "On 'personality tests, astrology, blood type', psychology leans toward which view?",
+    "sub": "科学测量与伪科学的界线。",
+    "subEn": "The line between science and pseudoscience.",
+    "tags": []
+  },
+  {
+    "id": "q-personality-6",
+    "module": "quiz",
+    "title": "关于 MBTI（16型）与大五人格，主流心理学更支持的立场是？",
+    "titleEn": "On MBTI (16 types) vs the Big Five, what does mainstream psychology lean toward?",
+    "sub": "流行工具与科学框架的差别。",
+    "subEn": "The gap between a popular tool and a scientific framework.",
     "tags": []
   },
   {

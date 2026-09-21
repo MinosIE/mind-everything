@@ -42,6 +42,9 @@ export const HOME_ENTRIES = [
   { id: 'myths', icon: '💡', titleKey: 'entry.myths.t', descKey: 'entry.myths.d' },
   { id: 'quiz', icon: '✅', titleKey: 'entry.quiz.t', descKey: 'entry.quiz.d' },
   { id: 'compare', icon: '🌐', titleKey: 'entry.compare.t', descKey: 'entry.compare.d' },
+  { id: 'demos', icon: '🎮', titleKey: 'entry.demos.t', descKey: 'entry.demos.d' },
+  { id: 'bigfive', icon: '📊', titleKey: 'entry.bigfive.t', descKey: 'entry.bigfive.d' },
+  { id: 'selfrating', icon: '🧪', titleKey: 'entry.selfrating.t', descKey: 'entry.selfrating.d' },
 ];
 
 export const REFS = [

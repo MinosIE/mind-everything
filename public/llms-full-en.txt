@@ -43,6 +43,14 @@
 - Personality in five traits: Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism.
 - The Big Five (OCEAN) is the best-supported trait framework; dimensions are stable and measurable across cultures. It describes differences, not good/bad, and predicts health, study and work outcomes. It captures tendencies, not destiny.
 - 标签：人格
+### Mental Model
+- The internal 'simulation' in our head of how things work — used to understand, predict and decide.
+- Mental models, proposed by Craik (1943) and formalized by Johnson-Laird (1983), are small in-head models of how the world works, used to predict outcomes. They need not be accurate copies—just good enough (e.g., you 'feel' the elevator comes faster if you press again; it doesn't). Kahneman's System 1/2 and anchoring both rest on such simplified models.
+- 标签：认知，决策
+### MBTI (16 Personality Types)
+- A popular 4-axis test sorting people into 16 types—yet scientifically contested.
+- MBTI derives from Jung's psychological types, developed by Myers & Briggs; four dichotomies (E/I, S/N, T/F, J/P) yield 16 types (e.g., INTJ). It is hugely popular for being simple and non-judgmental. Yet mainstream psychology is cautious: retest reliability is modest (you may get a different type later), it splits continuous traits into either/or, and it predicts behavior/jobs worse than the Big Five. Use it as an icebreaker for self-reflection, not a scientific basis for ability or hiring.
+- 标签：人格
 
 ## glossary
 
@@ -352,6 +360,24 @@
 ### East Asian cultures lean toward which 'self'?
 - A classic cross-cultural distinction.
 - Interdependent self: the 'I' sits in roles and relationships, valuing harmony and duty—the collectivist end of the spectrum.
+### The acronym 'OCEAN' refers to which personality framework?
+- The mainstream model that sums up personality in five letters.
+- The Big Five: Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism—the best-validated trait framework, describing differences not good/bad.
+### Behavior genetics suggests about what share of personality variance is heritable?
+- A rough nature-vs-nurture share.
+- Roughly 40%–50%. The rest comes from environment, experience and chance; personality is relatively, not absolutely, stable and can shift somewhat in adulthood.
+### After a lively party you feel drained and want to be alone — this more likely means?
+- A common difference in where energy comes from.
+- You may lean introverted: introverts recharge in solitude, extraverts in social buzz. It is a tendency, not a skill gap or disorder. The Big Five describes tendencies, not labels.
+### You prefer 'plan ahead' vs 'go with the flow' — this mainly reflects which difference?
+- Which dimension planning belongs to.
+- Conscientiousness in the Big Five: planning, order, reliability. It has nothing to do with blood type or left/right brain (both are myths). High conscientiousness predicts on-time, fewer slips—but only probabilistically.
+### On 'personality tests, astrology, blood type', psychology leans toward which view?
+- The line between science and pseudoscience.
+- Trait scales like the Big Five describe stable average tendencies and are cross-culturally validated, but they don't define a person or constitute diagnosis. Astrology and blood-type-personality lack empirical support—pop culture, not science. Personality is relatively, not absolutely, fixed.
+### On MBTI (16 types) vs the Big Five, what does mainstream psychology lean toward?
+- The gap between a popular tool and a scientific framework.
+- The Big Five is favored for stability, cross-cultural validity and predictive power; MBTI is easy, non-judgmental and good for icebreaking, but less reliable and splits continuous traits into either/or. Both aid self-reflection, yet MBTI shouldn't be a scientific basis for ability or hiring.
 
 ## compare
 

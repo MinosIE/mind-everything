@@ -143,6 +143,9 @@
         <button class="mod" data-go="m-myths" data-i18n="nav.myths">常见误区</button>
         <button class="mod" data-go="m-quiz" data-i18n="nav.quiz">小测验</button>
         <button class="mod" data-go="m-compare" data-i18n="nav.compare">中西对比</button>
+        <button class="mod" data-go="m-demos" data-i18n="nav.demos">互动小实验</button>
+        <button class="mod" data-go="m-bigfive" data-i18n="nav.bigfive">大五自测</button>
+        <button class="mod" data-go="m-selfrating" data-i18n="nav.selfrating">心理自评</button>
       </nav>
 
       <section class="module active" id="m-home">
@@ -297,6 +300,36 @@
         <div class="filters" id="compareFilters"></div>
         <p class="count" id="compareCount"></p>
         <div class="card-grid" id="compareGrid"></div>
+      </section>
+
+      <section class="module" id="m-demos">
+        <header class="mod-head">
+          <h2 data-i18n="demos.title">互动小实验</h2>
+          <p class="mod-sub" data-i18n="demos.sub">
+            经济学和历史讲事实，心理学能让你「亲手感受」：下面几个小实验，点开就能玩。
+          </p>
+        </header>
+        <div id="demosRoot"></div>
+      </section>
+
+      <section class="module" id="m-bigfive">
+        <header class="mod-head">
+          <h2 data-i18n="bigfive.title">大五人格自测</h2>
+          <p class="mod-sub" data-i18n="bigfive.sub">
+            10 道自评题，生成你的大五（OCEAN）剖面。仅供自我觉察，非专业诊断。
+          </p>
+        </header>
+        <div id="bigfiveRoot"></div>
+      </section>
+
+      <section class="module" id="m-selfrating">
+        <header class="mod-head">
+          <h2 data-i18n="selfrating.title">心理自评</h2>
+          <p class="mod-sub" data-i18n="selfrating.sub">
+            4 个迷你量表（压力/睡眠/拖延/正念），各 3 题 Likert 自评。仅供自我觉察，非专业诊断。
+          </p>
+        </header>
+        <div id="selfratingRoot"></div>
       </section>
 
       <footer class="foot" id="foot"></footer>

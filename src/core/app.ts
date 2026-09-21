@@ -6,6 +6,9 @@ import { initLangSwitch } from './i18n';
 import { initSearch } from './search';
 import { mountList, openDetailGlobal } from '../modules/shared';
 import { listModules } from '../modules/index';
+import { mountDemos } from '../modules/demos';
+import { mountBigFive } from '../modules/bigfive';
+import { mountSelfRating } from '../modules/selfrating';
 import type { LObj } from './types';
 
 const BUILT = new Set([
@@ -21,6 +24,9 @@ const BUILT = new Set([
   'm-myths',
   'm-quiz',
   'm-compare',
+  'm-demos',
+  'm-bigfive',
+  'm-selfrating',
 ]);
 
 function go(id: string): void {
@@ -132,5 +138,8 @@ export async function boot(): Promise<void> {
   mountHeroMail();
   await mountOverview();
   listModules.forEach((m) => mountList(m));
+  mountDemos();
+  mountBigFive();
+  mountSelfRating();
   initSearch(openDetailGlobal);
 }
