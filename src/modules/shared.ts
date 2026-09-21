@@ -56,6 +56,7 @@ export function mountList(m: ListModule): void {
   const countEl = document.getElementById(m.id + 'Count');
   const host = (grid || listEl) as HTMLElement | null;
   if (!host) return;
+  host.innerHTML = `<p class="count">${esc(t('ui.loading'))}</p>`;
 
   let data: LObj[] = [];
   let activeFilters: Record<string, string> = {};

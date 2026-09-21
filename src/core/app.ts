@@ -70,12 +70,13 @@ async function mountOverview(): Promise<void> {
     }
   };
 
+  const kpisEl = document.getElementById('kpis');
+  if (kpisEl) kpisEl.innerHTML = `<p class="count">${esc(t('ui.loading'))}</p>`;
   try {
     ov = await loadJson('overview.json');
     render();
     onLangChange(render);
   } catch {
-    const kpisEl = document.getElementById('kpis');
     if (kpisEl) kpisEl.innerHTML = `<p class="count">${esc(t('ui.loadFail'))}</p>`;
   }
 }
