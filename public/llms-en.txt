@@ -1,0 +1,16 @@
+# Mind of Everything
+
+A structured, data-driven plain-language psychology site. Full text in llms-full.txt (zh) and llms-full-en.txt (en).
+
+## Module data
+- concepts.json
+- glossary.json
+- psychologists.json
+- schools.json
+- biases.json
+- experiments.json
+- timeline.json
+- everyday.json
+- myths.json
+- quiz.json
+- compare.json

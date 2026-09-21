@@ -1,0 +1,99 @@
+{
+  "kpis": [
+    {
+      "file": "concepts.json",
+      "titleKey": "kpi.concepts",
+      "count": 8
+    },
+    {
+      "file": "glossary.json",
+      "titleKey": "kpi.glossary",
+      "count": 8
+    },
+    {
+      "file": "psychologists.json",
+      "titleKey": "kpi.psychologists",
+      "count": 8
+    },
+    {
+      "file": "schools.json",
+      "titleKey": "kpi.schools",
+      "count": 7
+    }
+  ],
+  "entries": [
+    {
+      "id": "concepts",
+      "icon": "🧩",
+      "titleKey": "entry.concepts.t",
+      "descKey": "entry.concepts.d"
+    },
+    {
+      "id": "glossary",
+      "icon": "📖",
+      "titleKey": "entry.glossary.t",
+      "descKey": "entry.glossary.d"
+    },
+    {
+      "id": "psychologists",
+      "icon": "🧠",
+      "titleKey": "entry.psychologists.t",
+      "descKey": "entry.psychologists.d"
+    },
+    {
+      "id": "schools",
+      "icon": "🏛️",
+      "titleKey": "entry.schools.t",
+      "descKey": "entry.schools.d"
+    },
+    {
+      "id": "biases",
+      "icon": "🎭",
+      "titleKey": "entry.biases.t",
+      "descKey": "entry.biases.d"
+    },
+    {
+      "id": "experiments",
+      "icon": "🔬",
+      "titleKey": "entry.experiments.t",
+      "descKey": "entry.experiments.d"
+    },
+    {
+      "id": "timeline",
+      "icon": "🗓️",
+      "titleKey": "entry.timeline.t",
+      "descKey": "entry.timeline.d"
+    },
+    {
+      "id": "everyday",
+      "icon": "🌆",
+      "titleKey": "entry.everyday.t",
+      "descKey": "entry.everyday.d"
+    },
+    {
+      "id": "myths",
+      "icon": "💡",
+      "titleKey": "entry.myths.t",
+      "descKey": "entry.myths.d"
+    },
+    {
+      "id": "quiz",
+      "icon": "✅",
+      "titleKey": "entry.quiz.t",
+      "descKey": "entry.quiz.d"
+    },
+    {
+      "id": "compare",
+      "icon": "🌐",
+      "titleKey": "entry.compare.t",
+      "descKey": "entry.compare.d"
+    }
+  ],
+  "refs": [
+    "《心理学与生活》（Richard J. Gerrig 等，2022）",
+    "《思考，快与慢》（Daniel Kahneman，2011）",
+    "《改变心理学的 40 项研究》（Roger R. Hock，2017）",
+    "American Psychological Association (APA) — apa.org",
+    "Simply Psychology（simplypsychology.org，通识入门参考）"
+  ]
+}

@@ -1,0 +1,16 @@
+# 万物心理学 · Mind of Everything
+
+结构化数据驱动的心理学通识科普站。全部内容见 llms-full.txt（中文）与 llms-full-en.txt（英文）。
+
+## 模块数据
+- concepts.json
+- glossary.json
+- psychologists.json
+- schools.json
+- biases.json
+- experiments.json
+- timeline.json
+- everyday.json
+- myths.json
+- quiz.json
+- compare.json

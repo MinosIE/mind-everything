@@ -1,0 +1,365 @@
+[
+  {
+    "id": "consciousness",
+    "module": "concepts",
+    "title": "意识",
+    "titleEn": "Consciousness",
+    "sub": "我们对自己与外界的主观体验——能「觉察到正在发生什么」的那部分心智。",
+    "subEn": "Our subjective awareness of self and world — the part of the mind that knows something is happening.",
+    "tags": [
+      "基础",
+      "认知"
+    ]
+  },
+  {
+    "id": "memory",
+    "module": "concepts",
+    "title": "记忆",
+    "titleEn": "Memory",
+    "sub": "把信息编码、储存、并在需要时为所用的能力。",
+    "subEn": "The ability to encode, store, and retrieve information when needed.",
+    "tags": [
+      "认知"
+    ]
+  },
+  {
+    "id": "emotion",
+    "module": "concepts",
+    "title": "情绪",
+    "titleEn": "Emotion",
+    "sub": "由生理唤醒、主观感受和行为倾向共同组成的复杂状态，如喜、怒、恐、悲。",
+    "subEn": "A complex state of physiological arousal, subjective feeling and action tendency — joy, anger, fear, sadness.",
+    "tags": [
+      "情绪",
+      "社会"
+    ]
+  },
+  {
+    "id": "motivation",
+    "module": "concepts",
+    "title": "动机",
+    "titleEn": "Motivation",
+    "sub": "推动我们发起、维持并指向某目标的内部动力。",
+    "subEn": "The internal drive that initiates, sustains and directs behavior toward a goal.",
+    "tags": [
+      "动机"
+    ]
+  },
+  {
+    "id": "personality",
+    "module": "concepts",
+    "title": "人格",
+    "titleEn": "Personality",
+    "sub": "相对稳定、跨情境的思维、情绪与行为模式的总和。",
+    "subEn": "The relatively stable, cross-situational patterns of thinking, feeling and behaving.",
+    "tags": [
+      "人格"
+    ]
+  },
+  {
+    "id": "attachment",
+    "module": "concepts",
+    "title": "依恋",
+    "titleEn": "Attachment",
+    "sub": "婴儿与主要照料者之间形成的持久情感联结，影响一生的人际关系。",
+    "subEn": "The enduring emotional bond between infant and primary caregiver that shapes relationships for life.",
+    "tags": [
+      "发展",
+      "关系"
+    ]
+  },
+  {
+    "id": "attribution",
+    "module": "concepts",
+    "title": "归因",
+    "titleEn": "Attribution",
+    "sub": "我们如何解释自己与他人的行为原因——是性格使然，还是情境所迫。",
+    "subEn": "How we explain the causes of behavior — disposition or situation.",
+    "tags": [
+      "社会"
+    ]
+  },
+  {
+    "id": "self",
+    "module": "concepts",
+    "title": "自我",
+    "titleEn": "Self",
+    "sub": "个体对「我是谁」的认知与感受，包括自我概念、自尊与自我监控。",
+    "subEn": "One's sense of 'who I am' — self-concept, self-esteem and self-monitoring.",
+    "tags": [
+      "社会",
+      "文化"
+    ]
+  },
+  {
+    "id": "conditioning",
+    "module": "glossary",
+    "title": "条件反射",
+    "titleEn": "Conditioning",
+    "sub": "巴甫洛夫的狗听到铃声就流口水，就是「条件」被「反射」出来的典型。",
+    "subEn": "Pavlov's dog salivating at a bell is the classic case of a conditioned reflex.",
+    "tags": [
+      "学习",
+      "行为"
+    ]
+  },
+  {
+    "id": "schema",
+    "module": "glossary",
+    "title": "图式",
+    "titleEn": "Schema",
+    "sub": "你脑子里有一张「餐厅该怎么点餐」的默认模板，这就是图式；去到陌生餐厅就靠它快速应对。",
+    "subEn": "You carry a default 'how to order at a restaurant' template in your head — that's a schema guiding new situations.",
+    "tags": [
+      "认知"
+    ]
+  },
+  {
+    "id": "defense-mechanism",
+    "module": "glossary",
+    "title": "心理防御机制",
+    "titleEn": "Defense Mechanism",
+    "sub": "把不敢面对的欲望包装成「我根本不在乎」，就是一种防御——保护自己不被痛苦击垮。",
+    "subEn": "Reframing an unbearable desire as 'I don't care anyway' is a defense that shields you from pain.",
+    "tags": [
+      "精神分析"
+    ]
+  },
+  {
+    "id": "cognitive-dissonance",
+    "module": "glossary",
+    "title": "认知失调",
+    "titleEn": "Cognitive Dissonance",
+    "sub": "明知道吸烟有害却还在抽，心里别扭——为了不别扭，你可能暗暗说服自己「危害被夸大了」。",
+    "subEn": "Knowing smoking harms yet still smoking feels off — to ease it you may quietly tell yourself 'the risk is exaggerated'.",
+    "tags": [
+      "社会",
+      "动机"
+    ]
+  },
+  {
+    "id": "priming",
+    "module": "glossary",
+    "title": "启动效应",
+    "titleEn": "Priming",
+    "sub": "先看到「医生」这个词，再填「__生」时你更可能写「医生」而非「学生」——隐性的联想被点亮了。",
+    "subEn": "After seeing 'doctor', you're more likely to complete '__or' as 'doctor' — a hidden association lit up.",
+    "tags": [
+      "认知"
+    ]
+  },
+  {
+    "id": "reinforcement",
+    "module": "glossary",
+    "title": "强化",
+    "titleEn": "Reinforcement",
+    "sub": "孩子收拾好玩具就给贴纸（正强化），或写完作业就不必洗碗（负强化），都是在「加料」让好行为更常出现。",
+    "subEn": "A sticker for tidying (positive) or skipping dishes after homework (negative) both 'add incentive' for good behavior.",
+    "tags": [
+      "行为"
+    ]
+  },
+  {
+    "id": "learned-helplessness",
+    "module": "glossary",
+    "title": "习得性无助",
+    "titleEn": "Learned Helplessness",
+    "sub": "笼中狗被反复电击却逃不掉，后来门开着也不敢逃——它「学会」了无助。人长期受挫也可能如此。",
+    "subEn": "A caged dog shocked with no escape later won't flee even with the door open — it 'learned' helplessness. Humans under chronic failure do too.",
+    "tags": [
+      "行为",
+      "情绪"
+    ]
+  },
+  {
+    "id": "theory-of-mind",
+    "module": "glossary",
+    "title": "心理理论",
+    "titleEn": "Theory of Mind",
+    "sub": "你知道「妈妈看不见盒子里的糖，所以她不知道糖在哪」——这种「别人想法和我不同」的洞察就是心理理论。",
+    "subEn": "Realizing 'mom can't see the candy, so she doesn't know where it is' — that insight that others' minds differ is theory of mind.",
+    "tags": [
+      "发展",
+      "社会"
+    ]
+  },
+  {
+    "id": "freud",
+    "module": "psychologists",
+    "title": "西格蒙德·弗洛伊德",
+    "titleEn": "Sigmund Freud",
+    "sub": "提出潜意识与心理结构（本我/自我/超我），开创谈话疗法，深刻影响了对「非理性自我」的理解。",
+    "subEn": "Proposed the unconscious and the id/ego/superego structure, founded the talking cure, and reshaped how we see the irrational self.",
+    "tags": [
+      "精神分析",
+      "临床"
+    ]
+  },
+  {
+    "id": "piaget",
+    "module": "psychologists",
+    "title": "让·皮亚杰",
+    "titleEn": "Jean Piaget",
+    "sub": "用「图式—同化—顺应」解释儿童如何主动建构对世界的理解，提出认知发展的四个阶段。",
+    "subEn": "Explained how children actively build understanding via schema-assimilation-accommodation, proposing four stages of cognitive development.",
+    "tags": [
+      "发展",
+      "认知"
+    ]
+  },
+  {
+    "id": "skinner",
+    "module": "psychologists",
+    "title": "伯尔赫斯·斯金纳",
+    "titleEn": "B. F. Skinner",
+    "sub": "用操作性条件反射与强化程式解释行为，主张「环境塑造行为」，对程序教学与行为矫正影响深远。",
+    "subEn": "Explained behavior via operant conditioning and reinforcement schedules, arguing 'environment shapes behavior', influencing programmed instruction and behavior modification.",
+    "tags": [
+      "行为",
+      "学习"
+    ]
+  },
+  {
+    "id": "bandura",
+    "module": "psychologists",
+    "title": "阿尔伯特·班杜拉",
+    "titleEn": "Albert Bandura",
+    "sub": "提出观察学习与自我效能，证明人不仅被强化塑造，也通过「看别人怎么做」和「相信自己能行」来改变。",
+    "subEn": "Proposed observational learning and self-efficacy, showing people are shaped not only by reinforcement but by watching others and believing in their own capability.",
+    "tags": [
+      "社会",
+      "学习"
+    ]
+  },
+  {
+    "id": "kahneman",
+    "module": "psychologists",
+    "title": "丹尼尔·卡尼曼",
+    "titleEn": "Daniel Kahneman",
+    "sub": "用「系统1/系统2」解释人类如何在直觉与理性间切换，揭示了一系列稳定的判断偏差。",
+    "subEn": "Explained how humans switch between intuition and reason via System 1 / System 2, revealing a family of stable judgment biases.",
+    "tags": [
+      "认知",
+      "决策"
+    ]
+  },
+  {
+    "id": "maslow",
+    "module": "psychologists",
+    "title": "亚伯拉罕·马斯洛",
+    "titleEn": "Abraham Maslow",
+    "sub": "用「需求层次金字塔」说明人先求生存安全，再追求归属、尊重与自我实现。",
+    "subEn": "Used the 'hierarchy of needs' pyramid to show people seek safety first, then belonging, esteem and self-actualization.",
+    "tags": [
+      "人本",
+      "动机"
+    ]
+  },
+  {
+    "id": "pavlov",
+    "module": "psychologists",
+    "title": "伊万·巴甫洛夫",
+    "titleEn": "Ivan Pavlov",
+    "sub": "用狗的唾液分泌实验发现经典条件反射，证明「联想」可以重塑生理反应。",
+    "subEn": "With dogs' salivation, discovered classical conditioning — that association can reshape physiological response.",
+    "tags": [
+      "行为",
+      "生理"
+    ]
+  },
+  {
+    "id": "ekman",
+    "module": "psychologists",
+    "title": "保罗·艾克曼",
+    "titleEn": "Paul Ekman",
+    "sub": "通过跨文化研究论证基本情绪及其面部表情具有普遍性，并开发了微表情判别工具。",
+    "subEn": "Argued basic emotions and their facial expressions are universal across cultures, and built tools to read micro-expressions.",
+    "tags": [
+      "情绪",
+      "社会"
+    ]
+  },
+  {
+    "id": "psychoanalysis",
+    "module": "schools",
+    "title": "精神分析",
+    "titleEn": "Psychoanalysis",
+    "sub": "以潜意识、童年冲突与驱力为核心，用谈话疗法探查行为背后的深层动力。",
+    "subEn": "Centers on the unconscious, childhood conflict and drives, using the talking cure to probe deep motives.",
+    "tags": [
+      "精神分析",
+      "临床"
+    ]
+  },
+  {
+    "id": "behaviorism",
+    "module": "schools",
+    "title": "行为主义",
+    "titleEn": "Behaviorism",
+    "sub": "只研究可观察的刺激—反应，用学习律解释一切行为，拒斥内在心理实体。",
+    "subEn": "Studies only observable stimulus-response, explaining all behavior by learning laws, rejecting inner mental entities.",
+    "tags": [
+      "行为",
+      "学习"
+    ]
+  },
+  {
+    "id": "cognitivism",
+    "module": "schools",
+    "title": "认知心理学",
+    "titleEn": "Cognitive Psychology",
+    "sub": "把心智当作信息加工系统，研究注意、记忆、语言与问题解决的内部机制。",
+    "subEn": "Treats the mind as an information-processing system, studying attention, memory, language and problem solving.",
+    "tags": [
+      "认知"
+    ]
+  },
+  {
+    "id": "humanistic",
+    "module": "schools",
+    "title": "人本心理学",
+    "titleEn": "Humanistic Psychology",
+    "sub": "强调人的主动性、潜能与尊严，关注成长、自我实现与治疗中的真诚关系。",
+    "subEn": "Stresses human agency, potential and dignity, focusing on growth, self-actualization and the genuine therapeutic bond.",
+    "tags": [
+      "人本",
+      "临床"
+    ]
+  },
+  {
+    "id": "evolutionary",
+    "module": "schools",
+    "title": "进化心理学",
+    "titleEn": "Evolutionary Psychology",
+    "sub": "用自然选择解释心智机制的起源，认为许多倾向是祖先环境中适应问题的产物。",
+    "subEn": "Explains the origin of mental mechanisms via natural selection, seeing many tendencies as products of ancestral adaptive problems.",
+    "tags": [
+      "进化",
+      "社会"
+    ]
+  },
+  {
+    "id": "neuropsychology",
+    "module": "schools",
+    "title": "神经心理学",
+    "titleEn": "Neuropsychology",
+    "sub": "用脑科学与神经影像把心智过程定位到具体的脑区与环路。",
+    "subEn": "Locates mental processes in specific brain regions and circuits via neuroscience and neuroimaging.",
+    "tags": [
+      "神经",
+      "认知"
+    ]
+  },
+  {
+    "id": "positive",
+    "module": "schools",
+    "title": "积极心理学",
+    "titleEn": "Positive Psychology",
+    "sub": "不只研究病态，也系统研究幸福、优势、韧性与意义等「如何让人生更好」的议题。",
+    "subEn": "Not only pathology, but systematically studies happiness, strengths, resilience and meaning — 'what makes life worth living'.",
+    "tags": [
+      "积极",
+      "幸福"
+    ]
+  }
+]

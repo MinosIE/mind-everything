@@ -1,0 +1,19 @@
+{
+  "name": "mind-everything",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "万物心理学 · Mind of Everything —— 零框架、Vite 打包、中英双语的心理学通识科普静态站",
+  "license": "MIT",
+  "scripts": {
+    "gen": "node scripts/build-all.mjs",
+    "dev": "npm run gen && vite",
+    "build": "npm run gen && tsc --noEmit && vite build",
+    "preview": "npm run gen && vite build && vite preview",
+    "check": "node scripts/check-i18n.mjs"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2",
+    "vite": "^8.3.0"
+  }
+}

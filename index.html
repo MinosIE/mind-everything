@@ -1,0 +1,282 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>万物心理学 · Mind of Everything | 心理学通识科普</title>
+    <meta
+      name="description"
+      content="用心理学读懂人心：核心概念、名词词典、心理学家、心理学流派、认知偏差、著名实验、发展时间轴、生活中的心理学，中英双语、免费无广告，帮你在 3 分钟内看懂一个概念。"
+    />
+    <meta
+      name="keywords"
+      content="心理学,心理学入门,认知偏差,心理学家,心理学流派,弗洛伊德,皮亚杰,卡尼曼,斯坦福监狱实验,米尔格拉姆,拖延,情绪,人格,依恋,心智,通识"
+    />
+    <meta name="author" content="万物心理学" />
+    <meta name="robots" content="index,follow,max-image-preview:large" />
+    <link rel="canonical" href="https://MinosIE.github.io/mind-everything/" />
+    <link rel="alternate" hreflang="zh-CN" href="https://MinosIE.github.io/mind-everything/" />
+    <link
+      rel="alternate"
+      hreflang="en"
+      href="https://MinosIE.github.io/mind-everything/?lang=en"
+    />
+    <link rel="alternate" hreflang="x-default" href="https://MinosIE.github.io/mind-everything/" />
+    <link rel="sitemap" type="application/xml" href="sitemap.xml" />
+    <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+    <meta name="theme-color" content="#C2683D" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#E59353" media="(prefers-color-scheme: dark)" />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="万物心理学 · Mind of Everything" />
+    <meta
+      property="og:description"
+      content="用心理学读懂人心：从认知偏差、著名实验到流派与思想家，把「心智」拆成看得懂的常识。"
+    />
+    <meta property="og:url" content="https://MinosIE.github.io/mind-everything/" />
+    <meta property="og:locale" content="zh_CN" />
+    <meta property="og:locale:alternate" content="en_US" />
+    <meta property="og:site_name" content="万物心理学" />
+    <meta property="og:image" content="https://MinosIE.github.io/mind-everything/og-cover.svg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="万物心理学 · Mind of Everything" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="万物心理学 · Mind of Everything" />
+    <meta
+      name="twitter:description"
+      content="用心理学读懂人心：从认知偏差、著名实验到流派与思想家，把「心智」拆成看得懂的常识。"
+    />
+    <meta name="twitter:image" content="https://MinosIE.github.io/mind-everything/og-cover.svg" />
+    <meta name="twitter:image:alt" content="万物心理学 · Mind of Everything" />
+
+    <!-- 避免主题闪烁：首屏渲染前确定主题 -->
+    <script>
+      (function () {
+        try {
+          var t = localStorage.getItem('theme');
+          if (!t) {
+            t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+          }
+          document.documentElement.setAttribute('data-theme', t);
+        } catch (e) {
+          document.documentElement.setAttribute('data-theme', 'light');
+        }
+      })();
+    </script>
+    <!-- 语言决定顺序：?lang= → localStorage → navigator.language -->
+    <script>
+      (function () {
+        try {
+          var q = null;
+          try {
+            q = new URLSearchParams(location.search).get('lang');
+          } catch (_) {}
+          var l = q || localStorage.getItem('lang');
+          if (!l) {
+            l = (navigator.language || 'zh').toLowerCase().startsWith('en') ? 'en' : 'zh';
+          }
+          l = l === 'en' ? 'en' : 'zh';
+          if (q) localStorage.setItem('lang', l);
+          document.documentElement.lang = l === 'en' ? 'en' : 'zh-CN';
+          document.documentElement.setAttribute('data-lang', l);
+        } catch (e) {}
+      })();
+    </script>
+  </head>
+  <body>
+    <div class="wrap">
+      <section class="hero">
+        <button class="icon-btn theme-btn" id="themeBtn" aria-label="切换明暗主题">
+          <span id="themeLabel">夜间</span>
+        </button>
+        <button class="icon-btn lang-btn" id="langBtn" aria-label="切换语言 Switch language">
+          <span id="langLabel">中文</span>
+        </button>
+        <h1 data-i18n="heroTitle">万物心理学 · Mind of Everything</h1>
+        <p data-i18n="heroSub">
+          用心理学读懂人心：从认知偏差、著名实验到流派与思想家，把「心智」拆成看得懂的常识。中立、结构化、中英双语、免费无广告。
+        </p>
+        <p class="hero-issue">
+          <span data-i18n="heroIssue">发现问题或有建议？欢迎提 Issue 或邮件反馈：</span
+          ><a
+            class="hero-issue-link"
+            href="https://github.com/MinosIE/mind-everything/issues"
+            target="_blank"
+            rel="noopener noreferrer"
+            >GitHub Issues ↗</a
+          ><a
+            id="heroMailLink"
+            class="hero-issue-link-alt"
+            href="mailto:417913012@qq.com"
+            ><span data-i18n="heroMail">✉️ 邮件反馈</span></a
+          >
+        </p>
+        <div class="kpis" id="kpis"></div>
+      </section>
+
+      <div class="search">
+        <input
+          id="search"
+          type="search"
+          autocomplete="off"
+          aria-label="搜索"
+          data-i18n-attr="placeholder:searchPlaceholder"
+          placeholder="搜索：概念 / 术语 / 心理学家 / 实验 / 流派，如「确认偏误」「卡尼曼」「斯坦福监狱」"
+        />
+        <div class="search-results" id="searchResults" hidden></div>
+      </div>
+
+      <nav class="modnav" id="modNav" aria-label="模块导航">
+        <button class="mod active" data-go="m-home" data-i18n="nav.home">概览</button>
+        <button class="mod" data-go="m-concepts" data-i18n="nav.concepts">核心概念</button>
+        <button class="mod" data-go="m-glossary" data-i18n="nav.glossary">名词词典</button>
+        <button class="mod" data-go="m-psychologists" data-i18n="nav.psychologists">心理学家</button>
+        <button class="mod" data-go="m-schools" data-i18n="nav.schools">心理学流派</button>
+        <button class="mod" data-go="m-biases" data-i18n="nav.biases">认知偏差</button>
+        <button class="mod" data-go="m-experiments" data-i18n="nav.experiments">著名实验</button>
+        <button class="mod" data-go="m-timeline" data-i18n="nav.timeline">发展时间轴</button>
+        <button class="mod" data-go="m-everyday" data-i18n="nav.everyday">生活中的心理学</button>
+        <button class="mod" data-go="m-myths" data-i18n="nav.myths">常见误区</button>
+        <button class="mod" data-go="m-quiz" data-i18n="nav.quiz">小测验</button>
+        <button class="mod" data-go="m-compare" data-i18n="nav.compare">中西对比</button>
+      </nav>
+
+      <section class="module active" id="m-home">
+        <p class="home-lead" data-i18n="homeLead">
+          从核心概念、名词词典，到心理学家、流派与实验 —— 选一个板块开始
+        </p>
+        <div class="home-grid" id="homeGrid"></div>
+        <section class="refs" id="refsBox" hidden>
+          <h2 data-i18n="refsTitle">主要参考资料与数据来源</h2>
+          <p class="mod-sub" data-i18n="refsSub">
+            本站内容为通识性整理，关键结论均标注来源与年份；不构成任何专业心理或医疗建议。
+          </p>
+          <ul class="ref-list" id="refList"></ul>
+        </section>
+      </section>
+
+      <section class="module" id="m-concepts">
+        <header class="mod-head">
+          <h2 data-i18n="concepts.title">核心概念</h2>
+          <p class="mod-sub" data-i18n="concepts.sub">
+            心理学的地基：心智、意识、记忆、情绪、动机、人格、归因与依恋。按分类与难度筛选，点击卡片看详解。
+          </p>
+        </header>
+        <div class="filters" id="conceptsFilters"></div>
+        <p class="count" id="conceptsCount"></p>
+        <div class="card-grid" id="conceptsGrid"></div>
+      </section>
+
+      <section class="module" id="m-glossary">
+        <header class="mod-head">
+          <h2 data-i18n="glossary.title">名词词典</h2>
+          <p class="mod-sub" data-i18n="glossary.sub">
+            新闻与书里天天出现却说不清的词：定义 + 大白话 + 英文对照 + 相关概念。
+          </p>
+        </header>
+        <div class="inline-search">
+          <input
+            id="glossaryQuery"
+            type="search"
+            autocomplete="off"
+            aria-label="在词典内搜索"
+            data-i18n-attr="placeholder:glossary.searchPlaceholder"
+            placeholder="在词典内搜索：如「条件反射」「图式」「依恋」"
+          />
+        </div>
+        <div class="filters" id="glossaryFilters"></div>
+        <p class="count" id="glossaryCount"></p>
+        <div class="gloss-list" id="glossaryList"></div>
+      </section>
+
+      <section class="module" id="m-psychologists">
+        <header class="mod-head">
+          <h2 data-i18n="psychologists.title">心理学家</h2>
+          <p class="mod-sub" data-i18n="psychologists.sub">
+            弗洛伊德、皮亚杰、斯金纳、班杜拉、卡尼曼、马斯洛……他们各自回答了什么。
+          </p>
+        </header>
+        <div class="filters" id="psychologistsFilters"></div>
+        <p class="count" id="psychologistsCount"></p>
+        <div class="card-grid" id="psychologistsGrid"></div>
+      </section>
+
+      <section class="module" id="m-schools">
+        <header class="mod-head">
+          <h2 data-i18n="schools.title">心理学流派</h2>
+          <p class="mod-sub" data-i18n="schools.sub">
+            同一颗心智，不同的解释处方：精神分析、行为主义、认知、人本、进化、神经、积极。
+          </p>
+        </header>
+        <div class="filters" id="schoolsFilters"></div>
+        <p class="count" id="schoolsCount"></p>
+        <div class="card-grid" id="schoolsGrid"></div>
+      </section>
+
+      <!-- P1 / P2 占位模块（建设中） -->
+      <section class="module" id="m-biases">
+        <header class="mod-head"><h2 data-i18n="biases.title">认知偏差</h2></header>
+        <div class="placeholder" id="biasesBox"></div>
+      </section>
+      <section class="module" id="m-experiments">
+        <header class="mod-head"><h2 data-i18n="experiments.title">著名实验</h2></header>
+        <div class="placeholder" id="experimentsBox"></div>
+      </section>
+      <section class="module" id="m-timeline">
+        <header class="mod-head"><h2 data-i18n="timeline.title">发展时间轴</h2></header>
+        <div class="placeholder" id="timelineBox"></div>
+      </section>
+      <section class="module" id="m-everyday">
+        <header class="mod-head"><h2 data-i18n="everyday.title">生活中的心理学</h2></header>
+        <div class="placeholder" id="everydayBox"></div>
+      </section>
+      <section class="module" id="m-myths">
+        <header class="mod-head"><h2 data-i18n="myths.title">常见误区</h2></header>
+        <div class="placeholder" id="mythsBox"></div>
+      </section>
+      <section class="module" id="m-quiz">
+        <header class="mod-head"><h2 data-i18n="quiz.title">小测验</h2></header>
+        <div class="placeholder" id="quizBox"></div>
+      </section>
+      <section class="module" id="m-compare">
+        <header class="mod-head"><h2 data-i18n="compare.title">中西对比</h2></header>
+        <div class="placeholder" id="compareBox"></div>
+      </section>
+
+      <footer class="foot" id="foot"></footer>
+    </div>
+
+    <noscript>
+      <p class="noscript">
+        本页为交互式科普站，需开启 JavaScript 才能渲染内容。全部结构化数据见
+        <code>data/overview.json</code>、<code>data/concepts.json</code> 等文件（也可访问
+        <code>llms-full.txt</code> 阅读全站纯文本）。
+      </p>
+    </noscript>
+
+    <button class="to-top" id="toTop" type="button" aria-label="返回顶部" title="返回顶部">
+      <svg
+        viewBox="0 0 24 24"
+        width="22"
+        height="22"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="2.4"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        aria-hidden="true"
+      >
+        <path d="M12 19V5" />
+        <path d="M5 12l7-7 7 7" />
+      </svg>
+    </button>
+
+    <div class="detail-root" id="detailRoot" hidden></div>
+
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

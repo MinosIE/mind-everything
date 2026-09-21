@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#FBF6F1"/>
+  <rect x="0" y="0" width="1200" height="14" fill="#C2683D"/>
+  <rect x="0" y="616" width="1200" height="14" fill="#D99A3E"/>
+  <circle cx="600" cy="250" r="92" fill="none" stroke="#C2683D" stroke-width="20"/>
+  <circle cx="600" cy="250" r="28" fill="#C2683D"/>
+  <text x="600" y="430" text-anchor="middle" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="68" font-weight="700" fill="#2B2521">万物心理学</text>
+  <text x="600" y="500" text-anchor="middle" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="38" fill="#847569">Mind of Everything · 读懂人心</text>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.w3.org/1999/sitemap.xml">
+  <url><loc>https://MinosIE.github.io/mind-everything/</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://MinosIE.github.io/mind-everything/?lang=en</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://MinosIE.github.io/mind-everything/data/concepts.json</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://MinosIE.github.io/mind-everything/data/glossary.json</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://MinosIE.github.io/mind-everything/data/psychologists.json</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://MinosIE.github.io/mind-everything/data/schools.json</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://MinosIE.github.io/mind-everything/data/biases.json</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://MinosIE.github.io/mind-everything/data/experiments.json</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://MinosIE.github.io/mind-everything/data/timeline.json</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://MinosIE.github.io/mind-everything/data/everyday.json</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://MinosIE.github.io/mind-everything/data/myths.json</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://MinosIE.github.io/mind-everything/data/quiz.json</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://MinosIE.github.io/mind-everything/data/compare.json</loc><changefreq>monthly</changefreq></url>
+</urlset>

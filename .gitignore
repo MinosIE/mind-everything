@@ -1,0 +1,20 @@
+# 依赖
+node_modules/
+
+# 构建产物（由 vite 生成，部署时再生成）
+dist/
+
+# 本地环境
+.env
+.env.local
+*.local
+
+# 日志 / 临时
+logs/
+*.log
+.DS_Store
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+*.swp

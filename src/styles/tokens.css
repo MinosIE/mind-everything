@@ -1,0 +1,41 @@
+/* 设计令牌：万物心理学 —— 暖色调（陶土橙 + 暖金） */
+:root,
+:root[data-theme='light'] {
+  --bg: #faf6f1;
+  --bg-soft: #f3ece2;
+  --card: #ffffff;
+  --card-2: #fdf8f1;
+  --text: #2b2521;
+  --muted: #847569;
+  --faint: #a89b8d;
+  --accent: #c2683d; /* 陶土橙 */
+  --accent-strong: #a85228;
+  --accent-2: #d99a3e; /* 暖金 */
+  --accent-soft: rgba(194, 104, 61, 0.12);
+  --link: #b25a34;
+  --border: #ece2d6;
+  --border-strong: #ddcfbe;
+  --shadow: 0 6px 22px rgba(90, 60, 40, 0.08);
+  --shadow-hover: 0 12px 30px rgba(90, 60, 40, 0.16);
+  --ring: rgba(194, 104, 61, 0.35);
+}
+
+:root[data-theme='dark'] {
+  --bg: #1a1512;
+  --bg-soft: #211a16;
+  --card: #251e19;
+  --card-2: #2c241e;
+  --text: #f3ebe2;
+  --muted: #b3a596;
+  --faint: #8a7c6d;
+  --accent: #e59353;
+  --accent-strong: #f0a866;
+  --accent-2: #e0ae55;
+  --accent-soft: rgba(229, 147, 83, 0.16);
+  --link: #eaa06a;
+  --border: #382f28;
+  --border-strong: #4a3d33;
+  --shadow: 0 6px 22px rgba(0, 0, 0, 0.35);
+  --shadow-hover: 0 12px 30px rgba(0, 0, 0, 0.5);
+  --ring: rgba(229, 147, 83, 0.4);
+}

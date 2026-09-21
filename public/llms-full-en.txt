@@ -1,0 +1,184 @@
+# 万物心理学 · Mind of Everything（EN全文）
+
+
+## concepts
+
+### Consciousness
+- Our subjective awareness of self and world — the part of the mind that knows something is happening.
+- Consciousness is the awareness of internal and external stimuli, ranging from awake perception to self-reflection. It is among the oldest and hardest questions in psychology: we can report what we think, yet struggle to explain how raw experience arises from neural activity (the 'hard problem').
+- 标签：基础，认知
+### Memory
+- The ability to encode, store, and retrieve information when needed.
+- Memory is often split into sensory, short-term (working) and long-term stores; long-term memory divides into declarative (facts/events) and non-declarative (skills/habits). Ebbinghaus's forgetting curve shows unreviewed material decays fast then levels off.
+- 标签：认知
+### Emotion
+- A complex state of physiological arousal, subjective feeling and action tendency — joy, anger, fear, sadness.
+- Emotion has physiological (racing heart), cognitive (appraisal of the situation) and expressive (facial) components. James–Lange theory holds bodily response precedes feeling; appraisal theory stresses that our interpretation of events determines the emotion.
+- 标签：情绪，社会
+### Motivation
+- The internal drive that initiates, sustains and directs behavior toward a goal.
+- Motivation is intrinsic (interest/meaning) or extrinsic (reward/punishment). Self-determination theory holds that autonomy, competence and relatedness fuel intrinsic motivation; expectancy theory predicts effort by value × expectation.
+- 标签：动机
+### Personality
+- The relatively stable, cross-situational patterns of thinking, feeling and behaving.
+- The Big Five (openness, conscientiousness, extraversion, agreeableness, neuroticism) is the most validated trait model. Behavior genetics suggests roughly 40–50% of personality variance is heritable, the rest from environment and experience.
+- 标签：人格
+### Attachment
+- The enduring emotional bond between infant and primary caregiver that shapes relationships for life.
+- Bowlby proposed attachment theory; Ainsworth's 'Strange Situation' identified secure, anxious-ambivalent and avoidant styles. Securely attached children explore more confidently, and adult attachment strongly affects intimate relationships.
+- 标签：发展，关系
+### Attribution
+- How we explain the causes of behavior — disposition or situation.
+- Heider proposed internal-external attribution; Kelley used consensus, distinctiveness and consistency to infer cause. The fundamental attribution error is over-crediting personality and under-crediting situation for others (calling someone 'unreliable' rather than 'stuck in traffic').
+- 标签：社会
+### Self
+- One's sense of 'who I am' — self-concept, self-esteem and self-monitoring.
+- Self-concept is the belief network about oneself; self-esteem its affective evaluation. Mead argued the self forms in social interaction; Cooley's 'looking-glass self' says we know ourselves through others' eyes. East vs. West differ in independent vs. interdependent self.
+- 标签：社会，文化
+
+## glossary
+
+### Conditioning
+- 定义：Learning in which a neutral stimulus comes to elicit a response through repeated pairings; split into classical and operant conditioning.
+- 大白话：Pavlov's dog salivating at a bell is the classic case of a conditioned reflex.
+- 标签：学习，行为
+### Schema
+- 定义：A mental framework (Piaget) for organizing and interpreting experience, developing through assimilation and accommodation.
+- 大白话：You carry a default 'how to order at a restaurant' template in your head — that's a schema guiding new situations.
+- 标签：认知
+### Defense Mechanism
+- 定义：Unconscious strategies (Freud & Anna Freud) that reduce anxiety and inner conflict — repression, projection, sublimation.
+- 大白话：Reframing an unbearable desire as 'I don't care anyway' is a defense that shields you from pain.
+- 标签：精神分析
+### Cognitive Dissonance
+- 定义：The discomfort when attitudes conflict with behavior (or with each other), driving change to restore consistency.
+- 大白话：Knowing smoking harms yet still smoking feels off — to ease it you may quietly tell yourself 'the risk is exaggerated'.
+- 标签：社会，动机
+### Priming
+- 定义：Prior exposure to a stimulus unconsciously influences later processing of related stimuli, often outside awareness.
+- 大白话：After seeing 'doctor', you're more likely to complete '__or' as 'doctor' — a hidden association lit up.
+- 标签：认知
+### Reinforcement
+- 定义：In operant conditioning, adding a pleasant stimulus (positive) or removing an aversive one (negative) to increase a behavior's future odds.
+- 大白话：A sticker for tidying (positive) or skipping dishes after homework (negative) both 'add incentive' for good behavior.
+- 标签：行为
+### Learned Helplessness
+- 定义：After repeated uncontrollable bad events, the passive state of giving up even when change becomes possible.
+- 大白话：A caged dog shocked with no escape later won't flee even with the door open — it 'learned' helplessness. Humans under chronic failure do too.
+- 标签：行为，情绪
+### Theory of Mind
+- 定义：The ability to attribute different beliefs, intentions and knowledge to others and predict behavior from them; matures around age 4.
+- 大白话：Realizing 'mom can't see the candy, so she doesn't know where it is' — that insight that others' minds differ is theory of mind.
+- 标签：发展，社会
+
+## psychologists
+
+### Sigmund Freud
+- 年代：1856–1939
+- 领域：Psychoanalysis
+- Proposed the unconscious and the id/ego/superego structure, founded the talking cure, and reshaped how we see the irrational self.
+- Freud held that much mental life is unconscious and childhood conflict surfaces as neurosis. He developed free association and dream analysis around sex and aggression drives. Weak falsifiability and narrow samples make him contested, yet 'the unconscious' now pervades culture and clinic.
+- 要点：Unconscious；Id / Ego / Superego；Defense mechanisms；Psychosexual stages
+- 著作：The Interpretation of Dreams；The Ego and the Id
+- 标签：精神分析，临床
+### Jean Piaget
+- 年代：1896–1980
+- 领域：Developmental Psychology
+- Explained how children actively build understanding via schema-assimilation-accommodation, proposing four stages of cognitive development.
+- Piaget argued children are not small adults but understand the world via distinct structures: sensorimotor, preoperational, concrete and formal operations. His clinical interviews revealed reasoning errors and founded genetic epistemology, shaping education and toy design.
+- 要点：Schema；Assimilation & Accommodation；Stages of development；Genetic epistemology
+- 著作：The Principles of Genetic Epistemology
+- 标签：发展，认知
+### B. F. Skinner
+- 年代：1904–1990
+- 领域：Behaviorism
+- Explained behavior via operant conditioning and reinforcement schedules, arguing 'environment shapes behavior', influencing programmed instruction and behavior modification.
+- Skinner separated respondent (classical) from operant (consequence-controlled) behavior and studied schedules (fixed/variable ratio) shaping response rates. He rejected inner mental entities, holding that prediction and control need only observable stimulus-response-reinforcement chains.
+- 要点：Operant conditioning；Reinforcement schedules；Shaping；Radical behaviorism
+- 著作：Science and Human Behavior；Beyond Freedom and Dignity
+- 标签：行为，学习
+### Albert Bandura
+- 年代：1925–2021
+- 领域：Social / Cognitive
+- Proposed observational learning and self-efficacy, showing people are shaped not only by reinforcement but by watching others and believing in their own capability.
+- Bandura's Bobo doll experiment showed children imitate adult aggression; he held behavior, cognition and environment co-determine each other (triadic reciprocity). Self-efficacy — belief in one's capability — is a core antecedent of motivation and persistence.
+- 要点：Observational learning；Self-efficacy；Reciprocal determinism；Modeling
+- 著作：Self-Efficacy: The Exercise of Control
+- 标签：社会，学习
+### Daniel Kahneman
+- 年代：1934–2024
+- 领域：Cognitive Psychology / Behavioral Economics
+- Explained how humans switch between intuition and reason via System 1 / System 2, revealing a family of stable judgment biases.
+- With Tversky, Kahneman proposed prospect theory showing systematic departures from rationality under uncertainty (loss aversion, framing). 'Thinking, Fast and Slow' brought heuristics and biases from lab to public and policy.
+- 要点：System 1 / System 2；Prospect theory；Heuristics & biases；Loss aversion
+- 著作：Thinking, Fast and Slow
+- 标签：认知，决策
+### Abraham Maslow
+- 年代：1908–1970
+- 领域：Humanistic Psychology
+- Used the 'hierarchy of needs' pyramid to show people seek safety first, then belonging, esteem and self-actualization.
+- A founder of humanistic psychology, Maslow rejected-only-pathology or mechanical views, stressing potential, agency and growth. The hierarchy is famous yet weakly evidenced, and 'self-actualization' is loosely defined.
+- 要点：Hierarchy of needs；Self-actualization；Humanism；Peak experience
+- 著作：Motivation and Personality
+- 标签：人本，动机
+### Ivan Pavlov
+- 年代：1849–1936
+- 领域：Physiology / Behavior
+- With dogs' salivation, discovered classical conditioning — that association can reshape physiological response.
+- A physiologist studying digestion, Pavlov found by chance that after pairing a bell with food, dogs salivated to the bell alone. This 'conditioned response' became a cornerstone of behaviorism and later fear-conditioning research.
+- 要点：Classical conditioning；Unconditioned / conditioned stimulus；Associative learning
+- 著作：Conditioned Reflexes
+- 标签：行为，生理
+### Paul Ekman
+- 年代：1934–
+- 领域：Emotion / Nonverbal
+- Argued basic emotions and their facial expressions are universal across cultures, and built tools to read micro-expressions.
+- Across Papua New Guinea and Western samples, Ekman found six expressions (joy, sadness, anger, fear, disgust, surprise) recognized consistently, supporting universality. His FACS coding system is widely used in psychology and deception research.
+- 要点：Universality of basic emotions；Facial expression；Micro-expression；FACS coding
+- 著作：Emotions Revealed；Telling Lies
+- 标签：情绪，社会
+
+## schools
+
+### Psychoanalysis
+- 年代：19世纪末–20世纪中叶
+- Centers on the unconscious, childhood conflict and drives, using the talking cure to probe deep motives.
+- 要点：Unconscious；Id/Ego/Superego；Defense mechanisms；Dream analysis
+- 代表：Sigmund Freud；Anna Freud；Carl Jung
+- 标签：精神分析，临床
+### Behaviorism
+- 年代：1913–1970s
+- Studies only observable stimulus-response, explaining all behavior by learning laws, rejecting inner mental entities.
+- 要点：Classical conditioning；Operant conditioning；Reinforcement；Shaping
+- 代表：John Watson；B. F. Skinner；Ivan Pavlov
+- 标签：行为，学习
+### Cognitive Psychology
+- 年代：1950s–至今
+- Treats the mind as an information-processing system, studying attention, memory, language and problem solving.
+- 要点：Information processing；Schema；Working memory；Priming
+- 代表：Jean Piaget；Ulric Neisser；George Miller
+- 标签：认知
+### Humanistic Psychology
+- 年代：1950s–至今
+- Stresses human agency, potential and dignity, focusing on growth, self-actualization and the genuine therapeutic bond.
+- 要点：Self-actualization；Hierarchy of needs；Unconditional positive regard；Client-centered
+- 代表：Abraham Maslow；Carl Rogers；Rollo May
+- 标签：人本，临床
+### Evolutionary Psychology
+- 年代：1980s–至今
+- Explains the origin of mental mechanisms via natural selection, seeing many tendencies as products of ancestral adaptive problems.
+- 要点：Adaptation；Modular mind；Mating strategies；Reciprocal altruism
+- 代表：David Buss；Leda Cosmides；John Tooby
+- 标签：进化，社会
+### Neuropsychology
+- 年代：1980s–至今
+- Locates mental processes in specific brain regions and circuits via neuroscience and neuroimaging.
+- 要点：Localization；Synaptic plasticity；Emotion & reason；Split-brain
+- 代表：Antonio Damasio；Michael Gazzaniga；Donald Hebb
+- 标签：神经，认知
+### Positive Psychology
+- 年代：1998–至今
+- Not only pathology, but systematically studies happiness, strengths, resilience and meaning — 'what makes life worth living'.
+- 要点：Learned optimism；Flow；Character strengths；PERMA model
+- 代表：Martin Seligman；Mihaly Csikszentmihalyi；Christopher Peterson
+- 标签：积极，幸福
