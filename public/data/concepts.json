@@ -134,5 +134,39 @@
     "related": ["personality", "attribution", "motivation"],
     "tags": ["社会", "文化"],
     "sources": [{ "label": "Markus, H. & Kitayama, S. 文化自我", "year": 1991 }]
+  },
+  {
+    "id": "self-efficacy",
+    "term": "自我效能",
+    "termEn": "Self-Efficacy",
+    "category": "社会",
+    "categoryEn": "Social",
+    "level": 2,
+    "oneLiner": "你相信自己「能做到某件事」的程度，比能力本身更影响行动。",
+    "oneLinerEn": "How strongly you believe 'I can do this' — it shapes action more than ability alone.",
+    "detail": "班杜拉提出：自我效能是对特定任务「能否做成」的判断，来自成败经验、替代榜样、言语说服与生理状态。高效能者更愿挑战、遇挫更坚持。它和泛化的「自尊」不同，是针对具体事情的信念。",
+    "detailEn": "Bandura: self-efficacy is your judgment about succeeding at a specific task, built from mastery, role models, persuasion and mood. High efficacy means more challenge-taking and persistence. Unlike global self-esteem, it is task-specific.",
+    "example": "同样数学不好，觉得「我这次只是方法不对」的人比觉得「我就是不行」的人更可能再试。",
+    "exampleEn": "Two poor math students: the one who thinks 'wrong method this time' retries more than the one who thinks 'I'm just bad'.",
+    "related": ["self", "motivation", "personality"],
+    "tags": ["社会", "动机"],
+    "sources": [{ "label": "Bandura (1997)", "year": 1997 }]
+  },
+  {
+    "id": "big-five",
+    "term": "大五人格",
+    "termEn": "Big Five (OCEAN)",
+    "category": "人格",
+    "categoryEn": "Personality",
+    "level": 2,
+    "oneLiner": "用五个维度描述人格：开放、尽责、外向、宜人、神经质。",
+    "oneLinerEn": "Personality in five traits: Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism.",
+    "detail": "大五模型（OCEAN）是当前最被支持的人格框架，维度相对稳定、可跨文化测量。它描述「差异」而非「好坏」，且能预测健康、学业与职场等结果。注意它描述的是平均倾向，不定义一个人。",
+    "detailEn": "The Big Five (OCEAN) is the best-supported trait framework; dimensions are stable and measurable across cultures. It describes differences, not good/bad, and predicts health, study and work outcomes. It captures tendencies, not destiny.",
+    "example": "高尽责的人更可能按时交作业、少丢三落四；但这只是概率，不是定论。",
+    "exampleEn": "High conscientiousness predicts on-time work and fewer slips — a tendency, not a verdict.",
+    "related": ["personality", "self"],
+    "tags": ["人格"],
+    "sources": [{ "label": "McCrae & Costa (1992)", "year": 1992 }]
   }
 ]

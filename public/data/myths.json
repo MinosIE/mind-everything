@@ -1,0 +1,74 @@
+[
+  {
+    "id": "left-right-brain",
+    "term": "「左脑人 / 右脑人」",
+    "termEn": "Left-brain / Right-brain People",
+    "oneLiner": "没有谁只用半边脑；分工是粗略的，整体协作才是常态。",
+    "oneLinerEn": "No one uses just one hemisphere;分工 is rough and whole-brain by default.",
+    "detail": "真相：左右脑确有粗略分工（如语言偏左），但任何复杂任务都两半球协同。所谓「左脑逻辑/右脑创意」是营销式简化。来源：脑成像研究一致显示任务激活横跨两半球。",
+    "detailEn": "Truth: hemispheres do differ roughly (e.g. language leans left), but any complex task uses both. 'Left=logic, right=creative' is a marketing simplification. Source: imaging shows whole-brain activation.",
+    "category": "脑与心智",
+    "related": ["multiple-intelligence"],
+    "sources": [{ "label": "Nielsen et al. (2013)", "year": 2013 }]
+  },
+  {
+    "id": "blood-type-personality",
+    "term": "「血型决定性格」",
+    "termEn": "Blood Type Personality",
+    "oneLiner": "血型与性格无关，这是流行文化而非科学。",
+    "oneLinerEn": "Blood type and personality are unrelated—pop culture, not science.",
+    "detail": "真相：大量研究未发现血型与人格特质有稳定相关；该说法主要流行于日本、韩国职场与婚恋。别用它给人贴标签。",
+    "detailEn": "Truth: large studies find no stable link between blood type and traits; the belief is popular in Japan/Korea dating and hiring. Don't label people by it.",
+    "category": "性格",
+    "related": ["multiple-intelligence", "big-five"],
+    "sources": [{ "label": "综述：血型-性格无相关", "year": 2014 }]
+  },
+  {
+    "id": "multiple-intelligence",
+    "term": "「多元智能测试能测出你擅长什么」",
+    "termEn": "Multiple Intelligences Test",
+    "oneLiner": "加德纳的「多元智能」是框架，不是可精测的能力量表。",
+    "oneLinerEn": "Gardner's 'multiple intelligences' is a framework, not a precise test.",
+    "detail": "真相：多元智能理论丰富了「智能不止 IQ」的视角，但市面「测试」多无信效度依据，不能据此定职业或分班。看趋势可以参考，下结论要谨慎。",
+    "detailEn": "Truth: the theory broadened 'intelligence beyond IQ', but commercial 'tests' often lack validity and shouldn't sort careers or classes. Use as a lens, not a verdict.",
+    "category": "智力",
+    "related": ["left-right-brain", "big-five"],
+    "sources": [{ "label": "Gardner (1983)", "year": 1983 }]
+  },
+  {
+    "id": "we-only-use-10-percent",
+    "term": "「人只用了 10% 的大脑」",
+    "termEn": "We Only Use 10% of Our Brain",
+    "oneLiner": "全脑几乎时刻都在耗氧工作，10% 纯属都市传说。",
+    "oneLinerEn": "The whole brain burns oxygen nearly all the time; 10% is a myth.",
+    "detail": "真相：脑成像显示即便静息，全脑也有广泛活动；任一部分受损都会带来功能缺损。来源：神经科学共识。",
+    "detailEn": "Truth: imaging shows widespread activity even at rest; damage to any region causes deficits. Source: neuroscience consensus.",
+    "category": "脑与心智",
+    "related": ["left-right-brain"],
+    "sources": [{ "label": "神经科学共识", "year": 2008 }]
+  },
+  {
+    "id": "memory-like-recording",
+    "term": "「记忆像录像带」",
+    "termEn": "Memory Is Like a Recording",
+    "oneLiner": "记忆每次回想都被重写，会掺入后来信息。",
+    "oneLinerEn": "Each recall rewrites memory, mixing in later information.",
+    "detail": "真相：记忆是可重构的，提问方式、他人说法都会改变回忆（错误记忆）。来源：洛夫特斯关于「误导信息效应」的研究。",
+    "detailEn": "Truth: memory is reconstructive; wording and others' suggestions reshape it (false memories). Source: Loftus on the misinformation effect.",
+    "category": "记忆",
+    "related": ["confirmation-bias"],
+    "sources": [{ "label": "Loftus & Palmer (1974)", "year": 1974 }]
+  },
+  {
+    "id": "boys-girls-learn-differently",
+    "term": "「男女用脑方式完全不同，要分开教」",
+    "termEn": "Boys and Girls Learn Differently",
+    "oneLiner": "两性大脑差异远小于个体间差异，分性别教学缺乏依据。",
+    "oneLinerEn": "Sex differences in brain are far smaller than person-to-person ones; segregated teaching lacks basis.",
+    "detail": "真相：所谓「男女脑」多是群体平均的微小差异，落到个人几乎无效；按性别分班教学未被证明更优。来源：性别与认知的元分析综述。",
+    "detailEn": "Truth: 'male/female brain' mostly reflects tiny group averages, useless per person; sex-segregated teaching isn't proven better. Source: meta-analyses on sex and cognition.",
+    "category": "学习",
+    "related": ["left-right-brain", "multiple-intelligence"],
+    "sources": [{ "label": "Hyde (2014)", "year": 2014 }]
+  }
+]

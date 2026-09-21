@@ -35,6 +35,14 @@
 - One's sense of 'who I am' — self-concept, self-esteem and self-monitoring.
 - Self-concept is the belief network about oneself; self-esteem its affective evaluation. Mead argued the self forms in social interaction; Cooley's 'looking-glass self' says we know ourselves through others' eyes. East vs. West differ in independent vs. interdependent self.
 - 标签：社会，文化
+### Self-Efficacy
+- How strongly you believe 'I can do this' — it shapes action more than ability alone.
+- Bandura: self-efficacy is your judgment about succeeding at a specific task, built from mastery, role models, persuasion and mood. High efficacy means more challenge-taking and persistence. Unlike global self-esteem, it is task-specific.
+- 标签：社会，动机
+### Big Five (OCEAN)
+- Personality in five traits: Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism.
+- The Big Five (OCEAN) is the best-supported trait framework; dimensions are stable and measurable across cultures. It describes differences, not good/bad, and predicts health, study and work outcomes. It captures tendencies, not destiny.
+- 标签：人格
 
 ## glossary
 
@@ -182,3 +190,186 @@
 - 要点：Learned optimism；Flow；Character strengths；PERMA model
 - 代表：Martin Seligman；Mihaly Csikszentmihalyi；Christopher Peterson
 - 标签：积极，幸福
+### Structuralism
+- 年代：1879–1920s
+- Used introspection to break consciousness into basic elements, aiming for a 'periodic table' of the mind.
+- 要点：Introspection；Elements of consciousness；Sensations & images；Experimental psychology
+- 代表：Wilhelm Wundt；Edward Titchener
+- 标签：基础，早期
+
+## biases
+
+### Confirmation Bias
+- We favor evidence that supports what we already believe and dismiss the rest.
+- How it shows: reading only like-minded media, recalling hits but forgetting misses. Why: the brain saves energy and protects identity. How to avoid: seek disconfirming evidence; ask 'where might I be wrong?'
+### Anchoring
+- The first number we see drags later judgments, even if irrelevant.
+- How it shows: strike-through prices, opening high in negotiation. Why: System 1 sticks to the anchor and under-adjusts. How to avoid: set your own fair range first, compare across sources.
+### Availability Heuristic
+- What comes easily to mind feels more common.
+- How it shows: fearing flying after a headline crash while driving daily. Why: vividness stands in for base rates. How to avoid: rely on statistics over impressions.
+### Loss Aversion
+- The pain of losing 100 feels about twice the joy of gaining 100.
+- How it shows: holding losing stocks, refusing a better deal to avoid loss. Why: avoiding loss aided survival. How to avoid: weigh the cost of inaction too.
+### Bandwagon Effect
+- The more people believe something, the likelier we follow—even if all are wrong.
+- How it shows: panic buying, herd investing, mobbing. Why: need to belong and the shortcut 'majority = right'. How to avoid: keep space to think alone first.
+### Sunk Cost Fallacy
+- Money or time already spent and unrecoverable shouldn't shape future choices.
+- How it shows: finishing a bad film, propping a failing project. Why: reluctance to admit waste. How to avoid: ask only 'is continuing worth it now?'
+### Halo Effect
+- If someone excels at one thing, we assume they're good at everything.
+- How it shows: attractive people judged smarter; elite alumni trusted more. Why: global impression substitutes for itemized judgment. How to avoid: evaluate traits separately.
+### Dunning-Kruger Effect
+- The least skilled overestimate most; the most skilled underestimate.
+- How it shows: novices overconfident, experts cautious. Why: the unskilled also lack the skill to see it. How to avoid: treat 'I don't know' as a start; learn from better performers.
+
+## experiments
+
+### Stanford Prison Experiment
+- Ordinary students assigned as guards or prisoners 'became' their roles within days.
+- Hypothesis: situation beats personality. Procedure: Zimbardo turned a basement into a prison; 24 drew roles; stopped after 6 days as abuse escalated. Conclusion: context strongly shapes behavior, but the sample was tiny and guided—contested. Ethics: deception and harm; such studies are now tightly restricted.
+### Milgram Obedience Experiment
+- Under 'authority', participants delivered (fake) lethal shocks to a stranger.
+- Hypothesis: ordinary people obey harmful orders. Procedure: a 'learner' was shocked up to 450V on command. Conclusion: about two-thirds went to the max. Ethics: heavy deception and stress, inspiring modern ethics rules.
+### Marshmallow Test
+- Kids who delayed a marshmallow seemed to do better later—maybe.
+- Hypothesis: self-control predicts later success. Procedure: a child could wait 15 min for two treats. Conclusion: delay correlated with later outcomes. Contested: later work shows background matters more; the correlation was overstated.
+### Little Albert
+- A baby was conditioned to fear furry things with a loud noise—fear can be learned.
+- Hypothesis: emotions are learnable by conditioning. Procedure: a loud clang paired with a rat; Albert soon cried at fur. Conclusion: supports behaviorism. Ethics: induced lasting fear with no desensitization—unacceptable today.
+### Asch Conformity
+- People picked the wrong line just to match the group.
+- Hypothesis: group pressure bends obvious judgments. Procedure: confederates gave wrong line comparisons. Conclusion: ~1/3 conformed at least once; one dissenter sharply cut conformity. Lesson: dissent is costly but vital.
+### Pavlov's Dog
+- A bell alone made dogs salivate—neutral cues can trigger responses.
+- Hypothesis: responses are learned by pairing stimuli. Procedure: a bell before food; soon the bell alone salivated the dog. Conclusion: classical conditioning holds, seeding behaviorism. Extension: ads and first-impression liking use the same link.
+### Cognitive Dissonance
+- Those paid little for a boring task found it more interesting.
+- Hypothesis: conflicting attitude and behavior creates discomfort, so we change the attitude. Procedure: after a dull task, some were paid $1, some $20, to lie it was fun. Conclusion: the $1 group convinced themselves it was fun (insufficient justification). Lesson: small self-chosen costs shift beliefs most.
+
+## timeline
+
+### Wundt founds the first psychology lab
+- Psychology split from philosophy into an experimental science of the mind.
+- At Leipzig, Wundt used introspection and reaction-time measures—the birth of scientific psychology.
+### Freud's 'The Interpretation of Dreams'
+- Put the unconscious on stage; founded psychoanalysis.
+- Argued the unconscious, childhood and drives shape behavior; influential yet hard to test empirically.
+### Watson launches Behaviorism
+- 'Study only observable behavior'—banned introspection from science.
+- Behaviorism stressed stimulus-response and learning, seeding conditioning research and later the cognitive turn.
+### Piaget's child cognitive development
+- Children don't think like small adults; they build thought in stages.
+- Four stages—sensorimotor to formal operations—founded developmental psychology.
+### Skinner's operant conditioning
+- Rewards and punishments shape behavior; schedules set the pace.
+- The Skinner box systematically studied reinforcement schedules, influencing teaching, management and therapy.
+### Maslow's hierarchy of needs
+- From safety to self-actualization, needs climb like a ladder.
+- Humanistic psychology rose, stressing growth and agency, not just pathology.
+### The Cognitive Revolution
+- Mind re-read as an information processor; the black box opened.
+- Chomsky, Simon and others brought memory, attention and language back; behaviorism receded.
+### Bandura's social learning (Bobo doll)
+- Kids who saw adults hit a doll copied it—learning by watching.
+- Introduced vicarious reinforcement and self-efficacy, bridging behaviorism and cognition.
+### Kahneman & Tversky: Prospect Theory
+- People aren't rational calculators; decisions are systematically biased.
+- Foundation of behavioral economics; brought psychology into decision research; Nobel in 2002 (Kahneman).
+### The Brain-imaging Era
+- fMRI let 'mental activity' be seen for the first time.
+- Cognitive neuroscience rose; emotion, memory and choice gained spatial maps, plus new debates like neuromarketing.
+### Rise of Positive Psychology
+- Not just treating illness, but studying 'how to live well'.
+- Seligman pushed well-being, strengths and flow, balancing the pathology focus.
+### AI Meets Psychology
+- LLMs are both a research subject and a tool—with fresh ethics questions.
+- AI for cognitive modeling, emotional support, screening aids; plus risks of privacy, dependency and misuse. Not a diagnosis here.
+
+## everyday
+
+### Procrastination
+- Not laziness—present feelings override the future self.
+- Why: facing a dreaded task, the brain flees for quick relief, reinforcing the habit. What helps: shrink tasks to 'start in 5 min'; reward after, not before; accept an imperfect first draft.
+### Decision Fatigue
+- Too many choices in a day makes later ones careless or impulsive.
+- How it shows: can't pick dinner, impulse buys, short temper. Why: self-control is a limited, depletable resource. What helps: decide big things in the morning; automate small choices; schedule decision-free time.
+### Social Media & Mood
+- More scrolling, more hollow: comparison and algorithms drain you.
+- Mechanism: others' highlights trigger upward comparison; dopamine loops keep you in. What helps: kill notifications, set time windows; create instead of scroll; no screens an hour before bed.
+### Relationships & Attachment
+- How we react in love often replays childhood attachment.
+- Three patterns: secure (depend and be alone), anxious (fear abandonment, need reassurance), avoidant (distant, fear engulfment). What helps: name your pattern; say needs plainly instead of testing; don't rush to label the other.
+### Burnout
+- Not fixed by sleep—chronic depletion from loss of control.
+- Three signs: exhaustion, detachment, low efficacy. Why: demand outruns resources, little autonomy. What helps: reclaim small control (set your own priorities); set boundaries; discuss load if needed. Not a diagnosis here.
+### Praise in Parenting
+- Praising effort beats praising smarts for resilience.
+- Mechanism: praising talent breeds fear of failure; praising effort treats hard tasks as practice (growth mindset). What helps: name the behavior ('you stayed focused'), avoid 'smart/dumb' labels.
+### Sleep & Memory
+- In sleep, the brain files away the day's information.
+- Mechanism: deep sleep consolidates memory and clears waste; lack of it weakens learning and frays mood. What helps: regular sleep, less screen light; don't pull all-nighters—sleep is review.
+
+## myths
+
+### Left-brain / Right-brain People
+- No one uses just one hemisphere;分工 is rough and whole-brain by default.
+- Truth: hemispheres do differ roughly (e.g. language leans left), but any complex task uses both. 'Left=logic, right=creative' is a marketing simplification. Source: imaging shows whole-brain activation.
+### Blood Type Personality
+- Blood type and personality are unrelated—pop culture, not science.
+- Truth: large studies find no stable link between blood type and traits; the belief is popular in Japan/Korea dating and hiring. Don't label people by it.
+### Multiple Intelligences Test
+- Gardner's 'multiple intelligences' is a framework, not a precise test.
+- Truth: the theory broadened 'intelligence beyond IQ', but commercial 'tests' often lack validity and shouldn't sort careers or classes. Use as a lens, not a verdict.
+### We Only Use 10% of Our Brain
+- The whole brain burns oxygen nearly all the time; 10% is a myth.
+- Truth: imaging shows widespread activity even at rest; damage to any region causes deficits. Source: neuroscience consensus.
+### Memory Is Like a Recording
+- Each recall rewrites memory, mixing in later information.
+- Truth: memory is reconstructive; wording and others' suggestions reshape it (false memories). Source: Loftus on the misinformation effect.
+### Boys and Girls Learn Differently
+- Sex differences in brain are far smaller than person-to-person ones; segregated teaching lacks basis.
+- Truth: 'male/female brain' mostly reflects tiny group averages, useless per person; sex-segregated teaching isn't proven better. Source: meta-analyses on sex and cognition.
+
+## quiz
+
+### Only reading like-minded news is called what?
+- A common habit that narrows your view.
+- Confirmation bias: we favor evidence supporting existing beliefs and ignore the rest. Counter it by seeking disconfirming evidence.
+### Which experiment had ~2/3 obey 'authority' to 'lethal' shocks?
+- A classic social study of obedience.
+- Milgram's obedience experiment (1963): ordinary people went to the max voltage on command (fake). It spurred modern ethics rules.
+### The claim 'we only use 10% of our brain' is...
+- A widely spread claim.
+- A myth. Imaging shows widespread activity even at rest; damage to any region causes deficits.
+### The pain of losing 100 feels about how many times the joy of gaining 100?
+- A core finding about risk preference.
+- About twice—loss aversion, from Kahneman & Tversky's prospect theory.
+### Which praise better builds resilience in kids?
+- A repeatedly tested difference in parenting.
+- Praising effort beats praising smarts: a growth mindset treats hard tasks as practice, not a threat to talent.
+### East Asian cultures lean toward which 'self'?
+- A classic cross-cultural distinction.
+- Interdependent self: the 'I' sits in roles and relationships, valuing harmony and duty—the collectivist end of the spectrum.
+
+## compare
+
+### Self-Construal: Independent vs Interdependent
+- The West leans independent self; East Asia leans interdependent self.
+- West (independent): uniqueness, self-expression, personal goals first. China/East Asia (interdependent): roles, harmony, relational duties. Impact: self-evaluation, communication, even memory (East Asians recall 'with whom' contexts).
+### Individualism vs Collectivism
+- One end prizes individual rights, the other group belonging—both lie on a spectrum.
+- The West leans individualistic: competition, privacy, directness. East Asia leans collectivist: consensus, face, the bigger picture. Note: urban youth today mix more—don't replace a person with a label.
+### Emotion Expression: Expressive vs Restrained
+- The West encourages saying feelings; East Asia weighs occasion and 'face'.
+- West: expressing feelings reads as sincerity and healing. China: expression weighs relationship and occasion; restraint reads as maturity; open conflict is avoided. Different rules, not different capacity to feel.
+### Parenting: Autonomy vs Training
+- The West leans 'let them choose'; East Asia leans 'pave the long road, value discipline'.
+- West: child autonomy, interest-led, less intervention. China: academic investment, long planning, strict parenting, also closer attachment. Research: security matters more than 'which rules'.
+### Conformity: Uniqueness vs Belonging
+- The West prizes 'not following'; East Asia restrains to 'not offend'.
+- Western culture rewards 'standing out'; East Asia wary of the relational cost of 'sticking out'. Both conform—just the allowed range differs.
+### Seeking Help: Open vs Reserved
+- The West treats help-seeking as self-care; East Asia fears 'airing dirty laundry'.
+- West: counseling feels like fitness. China: stigma and 'tough it out' delay care. In any culture, earlier help helps more—this site informs, not replaces professional assessment.

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "procrastination",
+    "term": "拖延",
+    "termEn": "Procrastination",
+    "oneLiner": "不是懒，是「现在的情绪」压过了「未来的自己」。",
+    "oneLinerEn": "Not laziness—present feelings override the future self.",
+    "detail": "为什么：面对厌恶任务，大脑立刻想逃，短期缓解强化了拖延。怎么办：把任务拆小到「5 分钟能开始」；用「先做完再奖励」替代「先玩再忙」；接受不完美初稿。",
+    "detailEn": "Why: facing a dreaded task, the brain flees for quick relief, reinforcing the habit. What helps: shrink tasks to 'start in 5 min'; reward after, not before; accept an imperfect first draft.",
+    "category": "自我管理",
+    "related": ["self-efficacy", "dunning-kruger"],
+    "sources": [{ "label": "《拖延心理学》", "year": 2007 }]
+  },
+  {
+    "id": "decision-fatigue",
+    "term": "决策疲劳",
+    "termEn": "Decision Fatigue",
+    "oneLiner": "一天做太多选择，后面就越随便或越冲动。",
+    "oneLinerEn": "Too many choices in a day makes later ones careless or impulsive.",
+    "detail": "表现：晚饭点不动、购物乱买、对家人没耐心。为什么：自控是有限资源，会耗尽。怎么办：把重要决定放上午；固定琐碎选择（同款衣/食）；留出「不做决定」的时段。",
+    "detailEn": "How it shows: can't pick dinner, impulse buys, short temper. Why: self-control is a limited, depletable resource. What helps: decide big things in the morning; automate small choices; schedule decision-free time.",
+    "category": "决策",
+    "related": ["loss-aversion", "anchoring"],
+    "sources": [{ "label": "Baumeister et al. (1998)", "year": 1998 }]
+  },
+  {
+    "id": "social-media-mood",
+    "term": "社交媒体与情绪",
+    "termEn": "Social Media & Mood",
+    "oneLiner": "刷得越久越空：比较和算法在悄悄消耗你。",
+    "oneLinerEn": "More scrolling, more hollow: comparison and algorithms drain you.",
+    "detail": "机制：别人的精选人生引发上行比较，多巴胺循环让人停不下。怎么办：关推送、设时段；用「主动创作」替代「被动刷」；睡前一小时不碰屏幕。",
+    "detailEn": "Mechanism: others' highlights trigger upward comparison; dopamine loops keep you in. What helps: kill notifications, set time windows; create instead of scroll; no screens an hour before bed.",
+    "category": "数字生活",
+    "related": ["halo-effect", "confirmation-bias"],
+    "sources": [{ "label": "Twenge (2017)", "year": 2017 }]
+  },
+  {
+    "id": "relationship-attachment",
+    "term": "亲密关系与依恋",
+    "termEn": "Relationships & Attachment",
+    "oneLiner": "亲密里的反应，常是童年依恋模式的重演。",
+    "oneLinerEn": "How we react in love often replays childhood attachment.",
+    "detail": "三种模式：安全型（可依赖也可独处）、焦虑型（怕被弃、需确认）、回避型（疏离、怕被缠）。怎么办：看清自己的模式，用「直接表达需求」替代试探；对方模式不同别急于贴标签。",
+    "detailEn": "Three patterns: secure (depend and be alone), anxious (fear abandonment, need reassurance), avoidant (distant, fear engulfment). What helps: name your pattern; say needs plainly instead of testing; don't rush to label the other.",
+    "category": "关系",
+    "related": ["attachment", "self-efficacy"],
+    "sources": [{ "label": "Bowlby (1969)", "year": 1969 }]
+  },
+  {
+    "id": "work-burnout",
+    "term": "职业倦怠",
+    "termEn": "Burnout",
+    "oneLiner": "不是累了睡一觉就好，是长期失控与耗竭。",
+    "oneLinerEn": "Not fixed by sleep—chronic depletion from loss of control.",
+    "detail": "三征兆：情绪耗竭、对工作疏离、效能感下降。为什么：资源长期小于需求、缺乏自主。怎么办：找回小块掌控感（自己排优先级）；设边界；必要时谈工作量调整。本站不提供诊断。",
+    "detailEn": "Three signs: exhaustion, detachment, low efficacy. Why: demand outruns resources, little autonomy. What helps: reclaim small control (set your own priorities); set boundaries; discuss load if needed. Not a diagnosis here.",
+    "category": "职场",
+    "related": ["decision-fatigue", "self-efficacy"],
+    "sources": [{ "label": "Maslach (1981)", "year": 1981 }]
+  },
+  {
+    "id": "parenting-praise",
+    "term": "育儿中的夸奖",
+    "termEn": "Praise in Parenting",
+    "oneLiner": "夸「努力」比夸「聪明」更能扛挫折。",
+    "oneLinerEn": "Praising effort beats praising smarts for resilience.",
+    "detail": "机制：夸天赋让人怕失败、回避难事；夸努力让人把困难当练习（成长型思维）。怎么办：描述具体行为（「你刚才很专注」），少贴「聪明/笨」标签。",
+    "detailEn": "Mechanism: praising talent breeds fear of failure; praising effort treats hard tasks as practice (growth mindset). What helps: name the behavior ('you stayed focused'), avoid 'smart/dumb' labels.",
+    "category": "育儿",
+    "related": ["self-efficacy", "marshmallow"],
+    "sources": [{ "label": "Dweck (2006)", "year": 2006 }]
+  },
+  {
+    "id": "sleep-memory",
+    "term": "睡眠与记忆",
+    "termEn": "Sleep & Memory",
+    "oneLiner": "睡好觉，大脑才把白天的信息「归档」。",
+    "oneLinerEn": "In sleep, the brain files away the day's information.",
+    "detail": "机制：深睡期巩固记忆、清理代谢废物；缺睡则学不牢、情绪更脆。怎么办：固定作息、睡前降蓝光；考前别熬夜——睡眠本身就在复习。",
+    "detailEn": "Mechanism: deep sleep consolidates memory and clears waste; lack of it weakens learning and frays mood. What helps: regular sleep, less screen light; don't pull all-nighters—sleep is review.",
+    "category": "健康",
+    "related": ["decision-fatigue"],
+    "sources": [{ "label": "Walker (2017)", "year": 2017 }]
+  }
+]

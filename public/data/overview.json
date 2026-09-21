@@ -3,7 +3,7 @@
     {
       "file": "concepts.json",
       "titleKey": "kpi.concepts",
-      "count": 8
+      "count": 10
     },
     {
       "file": "glossary.json",
@@ -18,7 +18,42 @@
     {
       "file": "schools.json",
       "titleKey": "kpi.schools",
+      "count": 8
+    },
+    {
+      "file": "biases.json",
+      "titleKey": "kpi.biases",
+      "count": 8
+    },
+    {
+      "file": "experiments.json",
+      "titleKey": "kpi.experiments",
       "count": 7
+    },
+    {
+      "file": "timeline.json",
+      "titleKey": "kpi.timeline",
+      "count": 12
+    },
+    {
+      "file": "everyday.json",
+      "titleKey": "kpi.everyday",
+      "count": 7
+    },
+    {
+      "file": "myths.json",
+      "titleKey": "kpi.myths",
+      "count": 6
+    },
+    {
+      "file": "compare.json",
+      "titleKey": "kpi.compare",
+      "count": 6
+    },
+    {
+      "file": "quiz.json",
+      "titleKey": "kpi.quiz",
+      "count": 6
     }
   ],
   "entries": [

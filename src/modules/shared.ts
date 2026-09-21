@@ -114,6 +114,27 @@ export function mountList(m: ListModule): void {
       host
         .querySelectorAll<HTMLElement>('.gloss-item')
         .forEach((b) => b.addEventListener('click', () => openDetailGlobal(b.dataset.id!)));
+    } else if (mode === 'timeline') {
+      const sorted = [...items].sort((a, b) =>
+        String(a.year || '').localeCompare(String(b.year || '')),
+      );
+      host.innerHTML =
+        sorted
+          .map((it) => {
+            const cv = m.card(it, L);
+            return `<button class="tl-item" data-id="${esc(it.id)}">
+                <span class="tl-year">${esc(it.year || '')}</span>
+                <span class="tl-body">
+                  <span class="tl-term">${esc(cv.title)}</span>
+                  ${cv.sub ? `<span class="tl-en">${esc(cv.sub)}</span>` : ''}
+                  ${cv.one ? `<p class="tl-one">${esc(cv.one)}</p>` : ''}
+                </span>
+              </button>`;
+          })
+          .join('') || `<p class="count">${esc(t('searchEmpty'))}</p>`;
+      host
+        .querySelectorAll<HTMLElement>('.tl-item')
+        .forEach((b) => b.addEventListener('click', () => openDetailGlobal(b.dataset.id!)));
     } else {
       host.innerHTML =
         items

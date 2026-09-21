@@ -47,7 +47,7 @@ export interface ListModule {
   file: string;
   titleKey: string;
   subKey: string;
-  mode?: 'grid' | 'list';
+  mode?: 'grid' | 'list' | 'timeline';
   filters?: { field: string; labelKey: string }[];
   inlineSearch?: string;
   card: (it: LObj, L: LangFn) => CardView;

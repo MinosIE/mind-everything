@@ -145,5 +145,26 @@
     "related": ["maslow", "motivation"],
     "tags": ["积极", "幸福"],
     "sources": [{ "label": "Seligman, M. 《真实的幸福》", "year": 2002 }]
+  },
+  {
+    "id": "structuralism",
+    "name": "构造主义",
+    "nameEn": "Structuralism",
+    "era": "1879–1920s",
+    "oneLiner": "用「内省」把意识拆成基本元素，试图像化学元素表那样画一张心智地图。",
+    "oneLinerEn": "Used introspection to break consciousness into basic elements, aiming for a 'periodic table' of the mind.",
+    "core": "意识可分解为感觉、意象、情感等最小单元；通过训练有素的内省报告其结构与组合，建立一门关于心智的经验科学。",
+    "coreEn": "Consciousness decomposes into minimal units—sensations, images, feelings; trained introspection reports their structure and combination, building an empirical science of mind.",
+    "founders": ["威廉·冯特", "爱德华·铁钦纳"],
+    "foundersEn": ["Wilhelm Wundt", "Edward Titchener"],
+    "keyIdeas": ["内省法", "意识元素", "感觉与意象", "实验心理学"],
+    "keyIdeasEn": ["Introspection", "Elements of consciousness", "Sensations & images", "Experimental psychology"],
+    "strengths": "第一个自觉把心理学建成实验科学的纲领，确立了实验室方法与可重复测量。",
+    "strengthsEn": "The first program to consciously make psychology an experimental science, setting the lab method and repeatable measurement.",
+    "criticisms": "内省主观、难以验证，且不同人报告不一；很快被行为主义取代。",
+    "criticismsEn": "Introspection is subjective and hard to verify, with inconsistent reports; soon replaced by behaviorism.",
+    "related": ["wundt-1879"],
+    "tags": ["基础", "早期"],
+    "sources": [{ "label": "Titchener, E. 《心理学教科书》", "year": 1908 }]
   }
 ]

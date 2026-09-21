@@ -8,7 +8,20 @@ import { mountList, openDetailGlobal } from '../modules/shared';
 import { listModules } from '../modules/index';
 import type { LObj } from './types';
 
-const BUILT = new Set(['m-home', 'm-concepts', 'm-glossary', 'm-psychologists', 'm-schools']);
+const BUILT = new Set([
+  'm-home',
+  'm-concepts',
+  'm-glossary',
+  'm-psychologists',
+  'm-schools',
+  'm-biases',
+  'm-experiments',
+  'm-timeline',
+  'm-everyday',
+  'm-myths',
+  'm-quiz',
+  'm-compare',
+]);
 
 function go(id: string): void {
   document.querySelectorAll<HTMLElement>('.module').forEach((s) =>

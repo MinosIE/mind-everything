@@ -1,0 +1,98 @@
+[
+  {
+    "id": "confirmation-bias",
+    "term": "确认偏误",
+    "termEn": "Confirmation Bias",
+    "oneLiner": "我们更愿相信支持已有观点的证据，忽略反面信息。",
+    "oneLinerEn": "We favor evidence that supports what we already believe and dismiss the rest.",
+    "detail": "表现：读新闻只挑认同的媒体、记起「我说过会这样」的预言而忘记落空的。为什么：大脑省能量，也保护自我认同。如何避免：主动寻找反面证据、把「我哪里可能错了」当作问题。",
+    "detailEn": "How it shows: reading only like-minded media, recalling hits but forgetting misses. Why: the brain saves energy and protects identity. How to avoid: seek disconfirming evidence; ask 'where might I be wrong?'",
+    "category": "社会认知",
+    "related": ["anchoring", "availability", "bandwagon"],
+    "sources": [{ "label": "《思考，快与慢》", "year": 2011 }]
+  },
+  {
+    "id": "anchoring",
+    "term": "锚定效应",
+    "termEn": "Anchoring",
+    "oneLiner": "先看到的数字会拽住后续判断，哪怕它毫无关系。",
+    "oneLinerEn": "The first number we see drags later judgments, even if irrelevant.",
+    "detail": "表现：原价划掉再标「特价」、谈判先开高价更占优。为什么：系统1被初始值锚住，调整不足。如何避免：先想「合理区间」再谈价，多方比价。",
+    "detailEn": "How it shows: strike-through prices, opening high in negotiation. Why: System 1 sticks to the anchor and under-adjusts. How to avoid: set your own fair range first, compare across sources.",
+    "category": "决策",
+    "related": ["confirmation-bias", "loss-aversion", "availability"],
+    "sources": [{ "label": "Kahneman, Tversky (1974)", "year": 1974 }]
+  },
+  {
+    "id": "availability",
+    "term": "可得性偏差",
+    "termEn": "Availability Heuristic",
+    "oneLiner": "容易想起的事，就被当成更常见的事。",
+    "oneLinerEn": "What comes easily to mind feels more common.",
+    "detail": "表现：飞机失事刷屏后不敢坐飞机，却每天开车。为什么：记忆的鲜活度替代了真实频率。如何避免：用统计数据替代直觉印象。",
+    "detailEn": "How it shows: fearing flying after a headline crash while driving daily. Why: vividness stands in for base rates. How to avoid: rely on statistics over impressions.",
+    "category": "启发式",
+    "related": ["anchoring", "confirmation-bias"],
+    "sources": [{ "label": "Tversky & Kahneman (1973)", "year": 1973 }]
+  },
+  {
+    "id": "loss-aversion",
+    "term": "损失厌恶",
+    "termEn": "Loss Aversion",
+    "oneLiner": "亏 100 块的痛，约是赚 100 块的快的两倍。",
+    "oneLinerEn": "The pain of losing 100 feels about twice the joy of gaining 100.",
+    "detail": "表现：死扛亏损股票、不愿换更优方案怕失去已有。为什么：进化上避损比逐利更关乎生存。如何避免：用「机会成本」提醒自己不行动也在损失。",
+    "detailEn": "How it shows: holding losing stocks, refusing a better deal to avoid loss. Why: avoiding loss aided survival. How to avoid: weigh the cost of inaction too.",
+    "category": "决策",
+    "related": ["anchoring", "sunk-cost"],
+    "sources": [{ "label": "《思考，快与慢》", "year": 2011 }]
+  },
+  {
+    "id": "bandwagon",
+    "term": "从众效应",
+    "termEn": "Bandwagon Effect",
+    "oneLiner": "越多人相信，越容易跟着信——哪怕人人都错。",
+    "oneLinerEn": "The more people believe something, the likelier we follow—even if all are wrong.",
+    "detail": "表现：抢购、跟风投资、群体起哄。为什么：归属需求与「多数即正确」的捷径。如何避免：保留独立思考空间，先问「我自己信什么」。",
+    "detailEn": "How it shows: panic buying, herd investing, mobbing. Why: need to belong and the shortcut 'majority = right'. How to avoid: keep space to think alone first.",
+    "category": "社会认知",
+    "related": ["confirmation-bias", "asch-conformity"],
+    "sources": [{ "label": "Asch (1951)", "year": 1951 }]
+  },
+  {
+    "id": "sunk-cost",
+    "term": "沉没成本",
+    "termEn": "Sunk Cost Fallacy",
+    "oneLiner": "已经花掉、收不回的，不该影响接下来的决定。",
+    "oneLinerEn": "Money or time already spent and unrecoverable shouldn't shape future choices.",
+    "detail": "表现：难看的电影看完才走、烂尾项目硬撑。为什么：不想承认「白花了」。如何避免：只问「从现在看，继续值不值」。",
+    "detailEn": "How it shows: finishing a bad film, propping a failing project. Why: reluctance to admit waste. How to avoid: ask only 'is continuing worth it now?'",
+    "category": "决策",
+    "related": ["loss-aversion"],
+    "sources": [{ "label": "Arkes & Blumer (1985)", "year": 1985 }]
+  },
+  {
+    "id": "halo-effect",
+    "term": "光环效应",
+    "termEn": "Halo Effect",
+    "oneLiner": "一个人某方面出色，我们就以为他样样都行。",
+    "oneLinerEn": "If someone excels at one thing, we assume they're good at everything.",
+    "detail": "表现：颜值高的人被认为更聪明可靠、名校生更易获信任。为什么：大脑用整体印象替代理性分项。如何避免：就事论事，分开评估不同能力。",
+    "detailEn": "How it shows: attractive people judged smarter; elite alumni trusted more. Why: global impression substitutes for itemized judgment. How to avoid: evaluate traits separately.",
+    "category": "社会认知",
+    "related": ["confirmation-bias"],
+    "sources": [{ "label": "Thorndike (1920)", "year": 1920 }]
+  },
+  {
+    "id": "dunning-kruger",
+    "term": "邓宁-克鲁格效应",
+    "termEn": "Dunning-Kruger Effect",
+    "oneLiner": "越不懂，越容易高估自己；越精通，越知不足。",
+    "oneLinerEn": "The least skilled overestimate most; the most skilled underestimate.",
+    "detail": "表现：新手自信满满、专家却谨慎。为什么：能力低者也缺乏「识别自己不行」的能力。如何避免：把「我不懂」当起点，向做得好的人请教。",
+    "detailEn": "How it shows: novices overconfident, experts cautious. Why: the unskilled also lack the skill to see it. How to avoid: treat 'I don't know' as a start; learn from better performers.",
+    "category": "元认知",
+    "related": ["halo-effect"],
+    "sources": [{ "label": "Kruger & Dunning (1999)", "year": 1999 }]
+  }
+]

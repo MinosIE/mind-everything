@@ -58,6 +58,13 @@ export const BILINGUAL_FIELDS = {
   glossary: ['term', 'def', 'plain'],
   psychologists: ['name', 'field', 'oneLiner', 'detail', 'keyIdeas', 'works'],
   schools: ['name', 'oneLiner', 'core', 'founders', 'keyIdeas', 'strengths', 'criticisms'],
+  biases: ['term', 'oneLiner', 'detail'],
+  experiments: ['term', 'oneLiner', 'detail', 'ethics'],
+  timeline: ['term', 'oneLiner', 'detail'],
+  everyday: ['term', 'oneLiner', 'detail'],
+  myths: ['term', 'oneLiner', 'detail'],
+  compare: ['term', 'oneLiner', 'detail', 'west', 'east'],
+  quiz: ['term', 'oneLiner', 'detail'],
 };
 
 export async function readJson(name) {

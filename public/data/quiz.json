@@ -1,0 +1,98 @@
+[
+  {
+    "id": "q-bias-1",
+    "term": "读新闻只挑认同的媒体，这在心理学叫？",
+    "termEn": "Only reading like-minded news is called what?",
+    "oneLiner": "一种常见但会窄化视野的认知习惯。",
+    "oneLinerEn": "A common habit that narrows your view.",
+    "detail": "确认偏误：我们更愿相信支持已有观点的证据，忽略反面信息。破解办法是主动寻找反面证据。",
+    "detailEn": "Confirmation bias: we favor evidence supporting existing beliefs and ignore the rest. Counter it by seeking disconfirming evidence.",
+    "options": [
+      { "text": "确认偏误", "textEn": "Confirmation bias", "correct": true },
+      { "text": "光环效应", "textEn": "Halo effect", "correct": false },
+      { "text": "沉没成本", "textEn": "Sunk cost", "correct": false }
+    ],
+    "related": ["confirmation-bias", "availability"],
+    "sources": [{ "label": "Kahneman (2011)", "year": 2011 }]
+  },
+  {
+    "id": "q-exp-1",
+    "term": "约 2/3 被试在「权威」指令下愿意对陌生人施加致命电击，出自哪个实验？",
+    "termEn": "Which experiment had ~2/3 obey 'authority' to 'lethal' shocks?",
+    "oneLiner": "一个关于服从的经典社会实验。",
+    "oneLinerEn": "A classic social study of obedience.",
+    "detail": "米尔格拉姆服从实验（1963）：普通人在实验者要求下一路加到最高电压（假的）。它推动了现代实验伦理规范。",
+    "detailEn": "Milgram's obedience experiment (1963): ordinary people went to the max voltage on command (fake). It spurred modern ethics rules.",
+    "options": [
+      { "text": "斯坦福监狱实验", "textEn": "Stanford prison", "correct": false },
+      { "text": "米尔格拉姆服从实验", "textEn": "Milgram obedience", "correct": true },
+      { "text": "棉花糖实验", "textEn": "Marshmallow test", "correct": false }
+    ],
+    "related": ["milgram", "stanford-prison"],
+    "sources": [{ "label": "Milgram (1963)", "year": 1963 }]
+  },
+  {
+    "id": "q-memory-1",
+    "term": "「人只用了 10% 的大脑」这个说法？",
+    "termEn": "The claim 'we only use 10% of our brain' is...",
+    "oneLiner": "一条流传很广的说法。",
+    "oneLinerEn": "A widely spread claim.",
+    "detail": "是都市传说。脑成像显示即便静息，全脑也有广泛活动；任一部分受损都会带来功能缺损。",
+    "detailEn": "A myth. Imaging shows widespread activity even at rest; damage to any region causes deficits.",
+    "options": [
+      { "text": "科学事实", "textEn": "Scientific fact", "correct": false },
+      { "text": "都市传说", "textEn": "Urban myth", "correct": true },
+      { "text": "只对左撇子成立", "textEn": "True only for left-handers", "correct": false }
+    ],
+    "related": ["we-only-use-10-percent", "left-right-brain"],
+    "sources": [{ "label": "神经科学共识", "year": 2008 }]
+  },
+  {
+    "id": "q-decision-1",
+    "term": "亏 100 块的痛，约是赚 100 块的快的多少倍？",
+    "termEn": "The pain of losing 100 feels about how many times the joy of gaining 100?",
+    "oneLiner": "一个关于风险偏好的核心发现。",
+    "oneLinerEn": "A core finding about risk preference.",
+    "detail": "约两倍——这就是损失厌恶，由卡尼曼与特沃斯基的前景理论提出。",
+    "detailEn": "About twice—loss aversion, from Kahneman & Tversky's prospect theory.",
+    "options": [
+      { "text": "差不多一样", "textEn": "About the same", "correct": false },
+      { "text": "约两倍", "textEn": "About twice", "correct": true },
+      { "text": "约十倍", "textEn": "About ten times", "correct": false }
+    ],
+    "related": ["loss-aversion", "anchoring"],
+    "sources": [{ "label": "Kahneman & Tversky (1979)", "year": 1979 }]
+  },
+  {
+    "id": "q-dev-1",
+    "term": "哪种夸法更有助于孩子扛挫折？",
+    "termEn": "Which praise better builds resilience in kids?",
+    "oneLiner": "育儿中一个被反复验证的差别。",
+    "oneLinerEn": "A repeatedly tested difference in parenting.",
+    "detail": "夸「努力」比夸「聪明」更好：成长型思维让人把困难当练习，而非对天赋的威胁。",
+    "detailEn": "Praising effort beats praising smarts: a growth mindset treats hard tasks as practice, not a threat to talent.",
+    "options": [
+      { "text": "夸聪明", "textEn": "Praise smartness", "correct": false },
+      { "text": "夸努力", "textEn": "Praise effort", "correct": true },
+      { "text": "都差不多", "textEn": "About the same", "correct": false }
+    ],
+    "related": ["parenting-praise", "self-efficacy"],
+    "sources": [{ "label": "Dweck (2006)", "year": 2006 }]
+  },
+  {
+    "id": "q-culture-1",
+    "term": "东亚文化更常见的「自我」倾向是？",
+    "termEn": "East Asian cultures lean toward which 'self'?",
+    "oneLiner": "跨文化心理学的一个经典区分。",
+    "oneLinerEn": "A classic cross-cultural distinction.",
+    "detail": "互依我（interdependent self）：把「我」放在关系与角色里，重和谐与责任，对应个体主义光谱的集体一端。",
+    "detailEn": "Interdependent self: the 'I' sits in roles and relationships, valuing harmony and duty—the collectivist end of the spectrum.",
+    "options": [
+      { "text": "独立我", "textEn": "Independent self", "correct": false },
+      { "text": "互依我", "textEn": "Interdependent self", "correct": true },
+      { "text": "无我", "textEn": "No self", "correct": false }
+    ],
+    "related": ["self-construal", "individualism-collectivism"],
+    "sources": [{ "label": "Markus & Kitayama (1991)", "year": 1991 }]
+  }
+]

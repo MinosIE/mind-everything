@@ -5,6 +5,13 @@ const KPI_SPECS = [
   { file: 'glossary', titleKey: 'kpi.glossary' },
   { file: 'psychologists', titleKey: 'kpi.psychologists' },
   { file: 'schools', titleKey: 'kpi.schools' },
+  { file: 'biases', titleKey: 'kpi.biases' },
+  { file: 'experiments', titleKey: 'kpi.experiments' },
+  { file: 'timeline', titleKey: 'kpi.timeline' },
+  { file: 'everyday', titleKey: 'kpi.everyday' },
+  { file: 'myths', titleKey: 'kpi.myths' },
+  { file: 'compare', titleKey: 'kpi.compare' },
+  { file: 'quiz', titleKey: 'kpi.quiz' },
 ];
 
 export async function buildOverview() {
