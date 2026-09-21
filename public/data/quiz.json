@@ -24,12 +24,26 @@
     "detail": "米尔格拉姆服从实验（1963）：普通人在实验者要求下一路加到最高电压（假的）。它推动了现代实验伦理规范。",
     "detailEn": "Milgram's obedience experiment (1963): ordinary people went to the max voltage on command (fake). It spurred modern ethics rules.",
     "options": [
-      { "text": "斯坦福监狱实验", "textEn": "Stanford prison", "correct": false },
-      { "text": "米尔格拉姆服从实验", "textEn": "Milgram obedience", "correct": true },
+      {
+        "text": "斯坦福监狱实验",
+        "textEn": "Stanford prison",
+        "correct": false
+      },
+      {
+        "text": "米尔格拉姆服从实验",
+        "textEn": "Milgram obedience",
+        "correct": true
+      },
       { "text": "棉花糖实验", "textEn": "Marshmallow test", "correct": false }
     ],
     "related": ["milgram", "stanford-prison"],
-    "sources": [{ "label": "Milgram (1963)", "year": 1963 }]
+    "sources": [
+      {
+        "label": "Milgram (1963)",
+        "year": 1963,
+        "url": "https://doi.org/10.1037/h0040525"
+      }
+    ]
   },
   {
     "id": "q-memory-1",
@@ -42,7 +56,11 @@
     "options": [
       { "text": "科学事实", "textEn": "Scientific fact", "correct": false },
       { "text": "都市传说", "textEn": "Urban myth", "correct": true },
-      { "text": "只对左撇子成立", "textEn": "True only for left-handers", "correct": false }
+      {
+        "text": "只对左撇子成立",
+        "textEn": "True only for left-handers",
+        "correct": false
+      }
     ],
     "related": ["we-only-use-10-percent", "left-right-brain"],
     "sources": [{ "label": "神经科学共识", "year": 2008 }]
@@ -61,7 +79,13 @@
       { "text": "约十倍", "textEn": "About ten times", "correct": false }
     ],
     "related": ["loss-aversion", "anchoring"],
-    "sources": [{ "label": "Kahneman & Tversky (1979)", "year": 1979 }]
+    "sources": [
+      {
+        "label": "Kahneman & Tversky (1979)",
+        "year": 1979,
+        "url": "https://doi.org/10.1016/0022-0531(79)90023-2"
+      }
+    ]
   },
   {
     "id": "q-dev-1",
@@ -93,7 +117,13 @@
       { "text": "无我", "textEn": "No self", "correct": false }
     ],
     "related": ["self-construal", "individualism-collectivism"],
-    "sources": [{ "label": "Markus & Kitayama (1991)", "year": 1991 }]
+    "sources": [
+      {
+        "label": "Markus & Kitayama (1991)",
+        "year": 1991,
+        "url": "https://doi.org/10.1037/0033-2909.98.2.224"
+      }
+    ]
   },
   {
     "id": "q-personality-1",
@@ -105,8 +135,16 @@
     "detailEn": "The Big Five: Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism—the best-validated trait framework, describing differences not good/bad.",
     "options": [
       { "text": "大五人格", "textEn": "Big Five", "correct": true },
-      { "text": "弗洛伊德心理结构（本我/自我/超我）", "textEn": "Freud's structure (id/ego/superego)", "correct": false },
-      { "text": "马斯洛需求层次", "textEn": "Maslow's hierarchy", "correct": false }
+      {
+        "text": "弗洛伊德心理结构（本我/自我/超我）",
+        "textEn": "Freud's structure (id/ego/superego)",
+        "correct": false
+      },
+      {
+        "text": "马斯洛需求层次",
+        "textEn": "Maslow's hierarchy",
+        "correct": false
+      }
     ],
     "related": ["big-five", "freud"],
     "sources": [{ "label": "McCrae & Costa (1992)", "year": 1992 }]
@@ -120,9 +158,17 @@
     "detail": "约 40%–50%。其余来自环境、经历与随机因素；人格是「相对」稳定而非「完全」由基因决定，成年后仍可微调。",
     "detailEn": "Roughly 40%–50%. The rest comes from environment, experience and chance; personality is relatively, not absolutely, stable and can shift somewhat in adulthood.",
     "options": [
-      { "text": "几乎 0%（全靠环境）", "textEn": "Nearly 0% (all environment)", "correct": false },
+      {
+        "text": "几乎 0%（全靠环境）",
+        "textEn": "Nearly 0% (all environment)",
+        "correct": false
+      },
       { "text": "约 40%–50%", "textEn": "About 40%–50%", "correct": true },
-      { "text": "约 90%（几乎全基因）", "textEn": "About 90% (almost all genes)", "correct": false }
+      {
+        "text": "约 90%（几乎全基因）",
+        "textEn": "About 90% (almost all genes)",
+        "correct": false
+      }
     ],
     "related": ["personality", "big-five"],
     "sources": [{ "label": "Plomin et al. (2016)", "year": 2016 }]
@@ -136,9 +182,21 @@
     "detail": "你可能偏向内向（introversion）：内向者的能量在独处中恢复，外向者在大社交中获得能量。这是倾向差异，不是社交能力问题，也不是疾病。大五描述的是平均倾向，不给人贴标签。",
     "detailEn": "You may lean introverted: introverts recharge in solitude, extraverts in social buzz. It is a tendency, not a skill gap or disorder. The Big Five describes tendencies, not labels.",
     "options": [
-      { "text": "你社交能力有问题", "textEn": "You have poor social skills", "correct": false },
-      { "text": "你偏向内向，能量来自独处", "textEn": "You lean introverted; solitude recharges you", "correct": true },
-      { "text": "你一定患有社交焦虑障碍", "textEn": "You must have social anxiety disorder", "correct": false }
+      {
+        "text": "你社交能力有问题",
+        "textEn": "You have poor social skills",
+        "correct": false
+      },
+      {
+        "text": "你偏向内向，能量来自独处",
+        "textEn": "You lean introverted; solitude recharges you",
+        "correct": true
+      },
+      {
+        "text": "你一定患有社交焦虑障碍",
+        "textEn": "You must have social anxiety disorder",
+        "correct": false
+      }
     ],
     "related": ["big-five", "personality"],
     "sources": [{ "label": "McCrae & Costa (1992)", "year": 1992 }]
@@ -152,9 +210,21 @@
     "detail": "大五中的尽责性（Conscientiousness）：计划、条理、可靠程度。它与血型、左右脑分工无关（皆为流行误区）。高尽责更可能按时交付、少出纰漏，但只是概率倾向。",
     "detailEn": "Conscientiousness in the Big Five: planning, order, reliability. It has nothing to do with blood type or left/right brain (both are myths). High conscientiousness predicts on-time, fewer slips—but only probabilistically.",
     "options": [
-      { "text": "尽责性高低", "textEn": "Level of Conscientiousness", "correct": true },
-      { "text": "血型差异（A/B/O/AB）", "textEn": "Blood type (A/B/O/AB)", "correct": false },
-      { "text": "左右脑分工", "textEn": "Left/right brain split", "correct": false }
+      {
+        "text": "尽责性高低",
+        "textEn": "Level of Conscientiousness",
+        "correct": true
+      },
+      {
+        "text": "血型差异（A/B/O/AB）",
+        "textEn": "Blood type (A/B/O/AB)",
+        "correct": false
+      },
+      {
+        "text": "左右脑分工",
+        "textEn": "Left/right brain split",
+        "correct": false
+      }
     ],
     "related": ["big-five", "personality", "left-right-brain"],
     "sources": [{ "label": "McCrae & Costa (1992)", "year": 1992 }]
@@ -168,9 +238,21 @@
     "detail": "大五等特质量表可描述稳定的平均倾向、能跨文化验证，但不定义一个人、也不构成诊断；星座与血型—性格说法缺乏实证支持，属流行文化而非科学。人格相对但非绝对稳定，成年后仍可微调。",
     "detailEn": "Trait scales like the Big Five describe stable average tendencies and are cross-culturally validated, but they don't define a person or constitute diagnosis. Astrology and blood-type-personality lack empirical support—pop culture, not science. Personality is relatively, not absolutely, fixed.",
     "options": [
-      { "text": "星座能准确预测一个人的人格", "textEn": "Astrology accurately predicts personality", "correct": false },
-      { "text": "大五等量表描述倾向、非诊断，且可验证", "textEn": "Scales like Big Five describe tendencies, not diagnosis, and are testable", "correct": true },
-      { "text": "人格完全由童年决定、成年后无法改变", "textEn": "Personality is set in childhood, immutable in adulthood", "correct": false }
+      {
+        "text": "星座能准确预测一个人的人格",
+        "textEn": "Astrology accurately predicts personality",
+        "correct": false
+      },
+      {
+        "text": "大五等量表描述倾向、非诊断，且可验证",
+        "textEn": "Scales like Big Five describe tendencies, not diagnosis, and are testable",
+        "correct": true
+      },
+      {
+        "text": "人格完全由童年决定、成年后无法改变",
+        "textEn": "Personality is set in childhood, immutable in adulthood",
+        "correct": false
+      }
     ],
     "related": ["big-five", "personality", "left-right-brain"],
     "sources": [{ "label": "McCrae & Costa (1992)", "year": 1992 }]
@@ -184,9 +266,21 @@
     "detail": "大五（OCEAN）因重测稳定、可跨文化验证、对行为预测更强，被主流更倚重；MBTI 易懂、非贬义、适合破冰，但信度较低、把连续特质切成非此即彼。两者都可辅助自我觉察，但 MBTI 不宜作为能力或招聘的科学依据。",
     "detailEn": "The Big Five is favored for stability, cross-cultural validity and predictive power; MBTI is easy, non-judgmental and good for icebreaking, but less reliable and splits continuous traits into either/or. Both aid self-reflection, yet MBTI shouldn't be a scientific basis for ability or hiring.",
     "options": [
-      { "text": "MBTI 比大五更科学、可直接用于招聘", "textEn": "MBTI is more scientific and fit for hiring", "correct": false },
-      { "text": "大五更受主流倚重；MBTI 适合作谈资而非定论", "textEn": "Big Five is favored; MBTI is talk, not verdict", "correct": true },
-      { "text": "两者都被证明无效", "textEn": "Both are proven invalid", "correct": false }
+      {
+        "text": "MBTI 比大五更科学、可直接用于招聘",
+        "textEn": "MBTI is more scientific and fit for hiring",
+        "correct": false
+      },
+      {
+        "text": "大五更受主流倚重；MBTI 适合作谈资而非定论",
+        "textEn": "Big Five is favored; MBTI is talk, not verdict",
+        "correct": true
+      },
+      {
+        "text": "两者都被证明无效",
+        "textEn": "Both are proven invalid",
+        "correct": false
+      }
     ],
     "related": ["big-five", "personality", "mbti"],
     "sources": [{ "label": "McCrae & Costa (1992)", "year": 1992 }]

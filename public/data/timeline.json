@@ -105,7 +105,13 @@
     "detail": "行为经济学基石，把心理学带入经济决策研究，2002 年获诺奖（卡尼曼）。",
     "detailEn": "Foundation of behavioral economics; brought psychology into decision research; Nobel in 2002 (Kahneman).",
     "related": ["loss-aversion", "anchoring", "confirmation-bias"],
-    "sources": [{ "label": "Kahneman & Tversky (1979)", "year": 1979 }]
+    "sources": [
+      {
+        "label": "Kahneman & Tversky (1979)",
+        "year": 1979,
+        "url": "https://doi.org/10.1016/0022-0531(79)90023-2"
+      }
+    ]
   },
   {
     "id": "brain-imaging-1990s",

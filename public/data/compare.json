@@ -12,7 +12,13 @@
     "east": "我 = 关系中的角色，成功常含「不负所托」。",
     "eastEn": "Self = role in relationships; success often means 'not letting others down'.",
     "related": ["individualism-collectivism", "emotion-expression"],
-    "sources": [{ "label": "Markus & Kitayama (1991)", "year": 1991 }]
+    "sources": [
+      {
+        "label": "Markus & Kitayama (1991)",
+        "year": 1991,
+        "url": "https://doi.org/10.1037/0033-2909.98.2.224"
+      }
+    ]
   },
   {
     "id": "individualism-collectivism",

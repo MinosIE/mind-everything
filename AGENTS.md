@@ -12,15 +12,15 @@
 
 1. **数据驱动 / 无后端**：所有展示内容来自 `public/data/*.json`。不要在前端硬写内容文案。新增/修改内容 = 改 JSON。
 2. **中英双语成对**：每个展示字段都成对出现 —— 中文原文（如 `term`）与其英译（`termEn`）。新增任何带 `*En` 对应物的字段，必须同时补上 `*En`，否则 `scripts/check-i18n.mjs` 会报错。**界面词表**在 `src/core/i18n.ts` 的 `zh` / `en` 两个对象里，键必须完全对齐。
-3. **派生文件由脚本生成，不要手改**：`overview.json` / `search.json` / `llms*.txt` / `robots.txt` / `sitemap.xml` 均由 `scripts/` 生成。改动数据后跑 `npm run gen`。
+3. **派生文件由脚本生成，不要手改**：`overview.json` / `llms*.txt` / `robots.txt` / `sitemap.xml` 均由 `scripts/` 生成。改动数据后跑 `npm run gen`。
 4. **防 LLM 误读**：数据里关键结论要给 `sources`（label/year，尽量带 `url`）；涉及争议（实验伦理、流派优劣、文化差异）并列多方观点，不站队、不诊断、不提供治疗建议。
 5. **XSS 安全**：所有外部数据都经过 `src/core/dom.ts` 的 `esc()` 转义后才进 `innerHTML`。新增渲染代码时，**绝不要**把未经 `esc()` 的字段直接拼进模板。
 6. **跨模块相关跳转**用 `related` 字段（id 列表）指向任意模块条目，由 `src/core/related.ts` 注册、运行时解析，支持跨模块跳转。id 必须真实存在（`check-i18n` 会警告悬空引用）。
 
 ## 目录速查
 
-- `public/data/`：人工维护的源数据（`concepts/glossary/psychologists/schools.json` 等）+ 脚本生成的派生文件（`overview/search.json`）。
-- `scripts/`：`build-all` / `build-overview` / `build-search` / `build-geo` / `build-llms-full` / `check-i18n`（Node ESM，读取 `scripts/lib.mjs` 的规格配置）。
+- `public/data/`：人工维护的源数据（`concepts/glossary/psychologists/schools.json` 等）+ 脚本生成的派生文件（`overview.json`）。
+- `scripts/`：`build-all` / `build-overview` / `build-geo` / `build-llms-full` / `check-i18n`（Node ESM，读取 `scripts/lib.mjs` 的规格配置）。
 - `src/core/`：`i18n` `theme` `data` `dom` `app` `detail` `search` `related` `types`。
 - `src/modules/`：`shared.ts`（卡片网格/列表/详情/相关按钮的通用渲染器）+ 各内容模块 `concepts/glossary/psychologists/schools.ts` + `index.ts`（模块注册表）+ `types.ts`（各模块的 TS 接口）。
 - `src/styles/`：设计令牌 `tokens.css`（陶土橙 `#C2683D` + 暖金 `#D99A3E`，含深/浅色主题）、基础 `base.css`、组件 `components.css`。
@@ -33,7 +33,7 @@
 3. 在 `index.html` 的 `#content` 内加 `<section id="m-xxx">`（含 `mod-head` 标题、可选 `#xxxFilters` 筛选条、`#xxxGrid` 容器），并在 `#modNav` 加导航按钮。
 4. 在 `src/modules/index.ts` 注册 `{ id:'m-xxx', ... }`（放入 `listModules`）。
 5. 在 `src/core/i18n.ts` 补 `nav.xxx` / `entry.xxx` / `xxx.title` / `xxx.sub` 的中英双语。
-6. 在 `scripts/lib.mjs` 的 `MODULES`、`HOME_ENTRIES`、`BILINGUAL_FIELDS` 中登记（overview/search/sitemap/双语校验需要）。
+6. 在 `scripts/lib.mjs` 的 `MODULES`、`HOME_ENTRIES`、`BILINGUAL_FIELDS` 中登记（overview/sitemap/双语校验需要）。漏登记会被 `check-i18n` 的一致性校验拦下（导航按钮 / 模块 section ↔ MODULES ↔ BILINGUAL_FIELDS 三方比对）。
 7. `npm run gen` → `npm run build` → 本地预览验证。
 
 ## 校验 / 构建
@@ -47,5 +47,6 @@
 
 - 全部 11 个模块（概览/核心概念/名词词典/心理学家/流派/认知偏差/著名实验/发展时间轴/生活中的心理学/常见误区/中西对比/小测验）均渲染；首页 KPI/入口/参考文献正常。
 - 时间轴模块用 `mode: 'timeline'` 竖向时间线渲染（`src/modules/shared.ts` 的 `mountList` 内新增分支）。
-- 搜索跨模块命中并跳转；详情面板含相关条目与来源；中英切换全局生效。
-- `npm run gen` 双语校验通过（`check-i18n` 零缺失、无悬空 `related`）。
+- 搜索跨模块命中并跳转（支持方向键 + Enter + Esc）；详情面板含相关条目与来源（`sources[].url` 渲染为外链，label 已含年份时不重复拼接）；对话框焦点圈定与还原；中英切换全局生效。
+- hash 路由：`#m-xxx` 深链直达模块、导航更新 URL、浏览器后退/前进跟随（`src/core/app.ts` 的 `activate` / `modFromHash`）。
+- `npm run gen` 双语校验通过（`check-i18n` 零缺失、无悬空 `related`，且模块注册一致性检查通过）。

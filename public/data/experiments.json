@@ -27,7 +27,13 @@
     "ethicsEn": "Deception caused strong guilt and anxiety, directly driving informed-consent and ethics-review systems.",
     "category": "社会",
     "related": ["stanford-prison", "asch-conformity"],
-    "sources": [{ "label": "Milgram (1963)", "year": 1963 }]
+    "sources": [
+      {
+        "label": "Milgram (1963)",
+        "year": 1963,
+        "url": "https://doi.org/10.1037/h0040525"
+      }
+    ]
   },
   {
     "id": "marshmallow",

@@ -33,14 +33,14 @@ npm run preview    # 构建后在子路径 /mind-everything/ 下预览
 npm run check      # 仅做中英双语校验（check-i18n）
 ```
 
-> 改动 `public/data/*.json` 后务必跑 `npm run gen`（或 `npm run dev`），重新生成 `overview.json` / `search.json` / `llms*.txt` / `sitemap.xml`。
+> 改动 `public/data/*.json` 后务必跑 `npm run gen`（或 `npm run dev`），重新生成 `overview.json` / `llms*.txt` / `sitemap.xml`。
 
 ## 目录结构
 
 ```
 public/data/   源数据（概念/词典/心理学家/流派/偏差/实验/时间轴/生活/误区/对比/测验）
-                + 脚本生成的派生文件（overview/search.json 等）
-scripts/        build-all / build-overview / build-search / build-geo / build-llms-full / check-i18n
+                + 脚本生成的派生文件（overview.json 等）
+scripts/        build-all / build-overview / build-geo / build-llms-full / check-i18n
 src/core/       i18n · theme · data · dom(esc) · app · detail · search · related · types
 src/modules/    shared.ts(通用渲染器) + 各内容模块 + demos/bigfive/selfrating(自定义挂载) + index.ts(注册表)
 src/styles/     tokens.css · base.css · components.css

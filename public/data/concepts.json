@@ -133,7 +133,13 @@
     "exampleEn": "Introducing themselves, Westerners say 'I am a designer'; Easterners more often 'I am someone's child/colleague' — different self boundaries.",
     "related": ["personality", "attribution", "motivation"],
     "tags": ["社会", "文化"],
-    "sources": [{ "label": "Markus, H. & Kitayama, S. 文化自我", "year": 1991 }]
+    "sources": [
+      {
+        "label": "Markus, H. & Kitayama, S. 文化自我",
+        "year": 1991,
+        "url": "https://doi.org/10.1037/0033-2909.98.2.224"
+      }
+    ]
   },
   {
     "id": "self-efficacy",
